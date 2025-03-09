@@ -1,0 +1,211 @@
+{
+  "edenvalrpeconomy:item-coin": "Crown",
+
+  "item-creature-monk-smith": "Monastery Smith",
+  "item-creature-monk-farmer": "Monastery Farmer",
+  "item-creature-monk-guard": "Monastery Guard",
+  "item-creature-monk-guard-questless": "Monastery Guard (No Quest)",
+  "item-creature-monk-lumberjack": "Monastery Lumberjack",
+  "item-creature-monk-tailor": "Monastery Tailor",
+  "item-creature-monk-trader": "Monastery Trader",
+
+  "edenvalrpeconomy:ingot-gold-exchange-100x-title": "I Need Gold! (100x)",
+  "edenvalrpeconomy:ingot-gold-exchange-100x-desc": "Hello, we are short on gold, I need 100 ingots. I will offer 100 crowns for them. Interested?",
+  "edenvalrpeconomy:ingot-gold-exchange-100x-obj": "{0}/100 gold ingots",
+
+  "edenvalrpeconomy:ingot-silver-exchange-100x-title": "I’m Desperate for Silver! (100x)",
+  "edenvalrpeconomy:ingot-silver-exchange-100x-desc": "I offer 25 crowns for 100 silver ingots, interested?",
+  "edenvalrpeconomy:ingot-silver-exchange-100x-obj": "{0}/100 silver ingots",
+
+  "edenvalrpeconomy:ingot-steel-exchange-100x-title": "Help Me Get Steel! (100x)",
+  "edenvalrpeconomy:ingot-steel-exchange-100x-desc": "We are short on steel for rust-fighting equipment. I need 100 ingots. I will pay generously! How much? 25 crowns.",
+  "edenvalrpeconomy:ingot-steel-exchange-100x-obj": "{0}/100 steel ingots",
+
+  "edenvalrpeconomy:ingot-iron-exchange-160x-title": "I’m Running Out of Iron! (160x)",
+  "edenvalrpeconomy:ingot-iron-exchange-160x-desc": "Buying iron! I will pay well! I will buy 160 ingots for 10 crowns!",
+  "edenvalrpeconomy:ingot-iron-exchange-160x-obj": "{0}/160 iron ingots",
+
+  "edenvalrpeconomy:ingot-bismuthbronze-exchange-100x-title": "I Need Bismuth Bronze! (100x)",
+  "edenvalrpeconomy:ingot-bismuthbronze-100x-desc": "We are short on bronze for decorations, I will buy 100 ingots for 5 crowns.",
+  "edenvalrpeconomy:ingot-bismuthbronze-100x-obj": "{0}/100 bismuth bronze ingots",
+
+  "edenvalrpeconomy:ingot-tinbronze-exchange-100x-title": "I’m Short on Tin Bronze! (100x)",
+  "edenvalrpeconomy:ingot-tinbronze-exchange-100x-desc": "We are short on bronze for decorations, I will buy 100 ingots for 5 crowns.",
+  "edenvalrpeconomy:ingot-tinbronze-exchange-100x-obj": "{0}/100 tin bronze ingots",
+
+  "edenvalrpeconomy:ingot-copper-exchange-95x-title": "I’m Begging for Copper! (95x)",
+  "edenvalrpeconomy:ingot-copper-exchange-95x-desc": "We are short on copper for equipment, I will buy 95 ingots for 5 crowns.",
+  "edenvalrpeconomy:ingot-copper-exchange-95x-obj": "{0}/100 copper ingots",
+
+  "edenvalrpeconomy:ingot-bismuth-exchange-100x-title": "I’m Out of Bismuth! (100x)",
+  "edenvalrpeconomy:ingot-bismuth-exchange-100x-desc": "We are short on bismuth in the warehouse, I will buy 100 ingots for 5 crowns.",
+  "edenvalrpeconomy:ingot-bismuth-exchange-100x-obj": "{0}/100 bismuth ingots",
+
+  "edenvalrpeconomy:ingot-gold-exchange-10x-title": "I Could Use a Little More Gold! (10x)",
+  "edenvalrpeconomy:ingot-gold-exchange-10x-desc": "Although we have a supply, I will buy 10 more ingots for 10 crowns.",
+  "edenvalrpeconomy:ingot-gold-exchange-10x-obj": "{0}/10 gold ingots",
+
+  "edenvalrpeconomy:ingot-silver-exchange-20x-title": "I Need a Bit More Silver! (20x)",
+  "edenvalrpeconomy:ingot-silver-exchange-20x-desc": "We have a supply of silver, but this amount will still fit. I will pay 5 crowns.",
+  "edenvalrpeconomy:ingot-silver-exchange-20x-obj": "{0}/20 silver ingots",
+
+  "edenvalrpeconomy:ingot-steel-exchange-20x-title": "I Could Use Some Extra Steel! (20x)",
+  "edenvalrpeconomy:ingot-steel-exchange-20x-desc": "Although we have enough steel, I won't complain about having more. I will buy 20 ingots for 5 crowns.",
+  "edenvalrpeconomy:ingot-steel-exchange-20x-obj": "{0}/20 steel ingots",
+
+  "edenvalrpeconomy:ingot-iron-exchange-16x-title": "I Need a Handful of Iron! (16x)",
+  "edenvalrpeconomy:ingot-iron-exchange-16x-desc": "Iron is a very useful metal, we have plenty but I can still fit 16 more. I will pay 1 crown.",
+  "edenvalrpeconomy:ingot-iron-exchange-16x-obj": "{0}/16 iron ingots",
+
+  "edenvalrpeconomy:ingot-bismuthbronze-exchange-20x-title": "I’m Short on Bismuth Bronze! (20x)",
+  "edenvalrpeconomy:ingot-bismuthbronze-exchange-20x-desc": "A little bronze always comes in handy, I will buy 20 ingots for 1 crown.",
+  "edenvalrpeconomy:ingot-bismuthbronze-exchange-20x-obj": "{0}/20 bismuth bronze ingots",
+
+  "edenvalrpeconomy:ingot-tinbronze-exchange-20x-title": "I Need a Bit of Tin Bronze! (20x)",
+  "edenvalrpeconomy:ingot-tinbronze-exchange-20x-desc": "Hello. I will buy 20 tin bronze ingots. I offer 1 crown.",
+  "edenvalrpeconomy:ingot-tinbronze-exchange-20x-obj": "{0}/20 tin bronze ingots",
+
+  "edenvalrpeconomy:ingot-copper-exchange-19x-title": "I Could Use Some Copper! (19x)",
+  "edenvalrpeconomy:ingot-copper-exchange-19x-desc": "Our warehouse is full, but copper is a good metal. I will buy 19 ingots for 1 crown.",
+  "edenvalrpeconomy:ingot-copper-exchange-19x-obj": "{0}/19 copper ingots",
+
+  "edenvalrpeconomy:ingot-bismuth-exchange-20x-title": "I Need a Little More Bismuth! (20x)",
+  "edenvalrpeconomy:ingot-bismuth-exchange-20x-desc": "Bismuth, a beautiful metal. The warehouse is full, but I can still fit 20 ingots. I will pay you 1 crown.",
+  "edenvalrpeconomy:ingot-bismuth-exchange-20x-obj": "{0}/20 bismuth ingots",
+
+  "edenvalrpeconomy:flour-exchange-512x-title": "I’m Running Low on Flour! (512x)",
+  "edenvalrpeconomy:flour-exchange-512x-desc": "Our granary is a bit empty, I will buy 8 sacks of flour for 2 crowns.",
+  "edenvalrpeconomy:flour-exchange-512x-obj": "{0}/512 flour",
+
+  "edenvalrpeconomy:flour-exchange-256x-title": "I would still use some Flour! (256x)",
+  "edenvalrpeconomy:flour-exchange-256x-desc": "If you still have some flour laying around your village, I will buy 4 sacks of them for 1 crown.",
+  "edenvalrpeconomy:flour-exchange-256x-obj": "{0}/256 flour",
+
+  "edenvalrpeconomy:packed-pemmican-exchange-30x-title": "Sustenance for the Monastery - Pemmican (30x)",
+  "edenvalrpeconomy:packed-pemmican-exchange-30x-desc": "Monastery needs 30 pemmican for their journeys. Deliver 30 packed pemmican and I will give you 30 crowns.!",
+  "edenvalrpeconomy:packed-pemmican-exchange-30x-obj": "{0}/30 packed pemmican",
+
+  "edenvalrpeconomy:packed-pemmican-exchange-10x-title": "We would like to preserve more pemmican (10x)",
+  "edenvalrpeconomy:packed-pemmican-exchange-10x-desc": "We still need some more pemmican for our journeys, for 10 packed pemmican I will give you 10 crowns",
+  "edenvalrpeconomy:packed-pemmican-exchange-10x-obj": "{0}/10 packed pemmican",
+
+  "edenvalrpeconomy:mushroom-pate-exchange-30x-title": "Sustenance for the Monastery - Mushroom Pate (30x)",
+  "edenvalrpeconomy:mushroom-pate-exchange-30x-desc": "Monastery needs 30 packed mushrooms for their journeys. Deliver 30 mushroom pate and I will give you 30 crowns.!",
+  "edenvalrpeconomy:mushroom-pate-exchange-30x-obj": "{0}/30 packed pemmican",
+
+  "edenvalrpeconomy:mushroom-pate-exchange-10x-title": "We would like to preserve more mushrooms (10x)",
+  "edenvalrpeconomy:mushroom-pate-exchange-10x-desc": "We still need some more mushroom pates for our journeys, for 10 packs I will give you 1 crown.",
+  "edenvalrpeconomy:mushroom-pate-exchange-10x-obj": "{0}/10 mushroom pete",
+
+  "edenvalrpeconomy:cloth-exchange-16x-title": "I’m Desperate for Cloth! (16x)",
+  "edenvalrpeconomy:cloth-exchange-16x-desc": "We are a bit short on cloth for clothing, I will buy 16 sheets from you for 4 crowns.",
+  "edenvalrpeconomy:cloth-exchange-16x-obj": "{0}/16 cloth",
+
+  "edenvalrpeconomy:cloth-wool-exchange-16x-title": "I’m Desperate for Wool Cloth! (16x)",
+  "edenvalrpeconomy:cloth-wool-exchange-16x-desc": "We are a bit short on wool cloth for clothing, I will buy 16 sheets from you for 4 crowns.",
+  "edenvalrpeconomy:cloth-wool-exchange-16x-obj": "{0}/16 wool cloth",
+
+  "edenvalrpeconomy:sewingkit-exchange-8x-title": "I Need Sewing Kits Badly! (8x)",
+  "edenvalrpeconomy:sewingkit-exchange-8x-desc": "Our clothes are fraying, I will buy 8 sewing kits for 4 crowns.",
+  "edenvalrpeconomy:sewingkit-exchange-8x-obj": "{0}/8 sewing kits",
+
+  "edenvalrpeconomy:leather-sturdy-plain-exchange-30x-title": "I’m Out of Sturdy Leather! (30x)",
+  "edenvalrpeconomy:leather-sturdy-plain-exchange-30x-desc": "We need better satchels, and thus sturdy tanned leather. I will buy 30 pieces for 6 crowns.",
+  "edenvalrpeconomy:leather-sturdy-plain-exchange-30x-obj": "{0}/30 sturdy tanned leather",
+
+  "edenvalrpeconomy:cloth-exchange-4x-title": "I Could Use Some Cloth! (4x)",
+  "edenvalrpeconomy:cloth-exchange-4x-desc": "Although we have cloth, a few more pieces will come in handy. I will pay 1 crown for 4 pieces.",
+  "edenvalrpeconomy:cloth-exchange-4x-obj": "{0}/4 cloth",
+
+  "edenvalrpeconomy:cloth-wool-exchange-4x-title": "I Could Use Some Wool Cloth! (4x)",
+  "edenvalrpeconomy:cloth-wool-exchange-4x-desc": "Although we have wool cloth, a few more pieces will come in handy. I will pay 1 crown for 4 pieces.",
+  "edenvalrpeconomy:cloth-wool-exchange-4x-obj": "{0}/4 wool cloth",
+
+  "edenvalrpeconomy:sewingkit-exchange-4x-title": "I Need a Few Sewing Kits! (4x)",
+  "edenvalrpeconomy:sewingkit-exchange-4x-desc": "I already have some kits, but 4 more won't hurt. I will pay you 2 crowns.",
+  "edenvalrpeconomy:sewingkit-exchange-4x-obj": "{0}/4 sewing kits",
+
+  "edenvalrpeconomy:leather-sturdy-plain-exchange-5x-title": "I’m Short on Sturdy Leather! (5x)",
+  "edenvalrpeconomy:leather-sturdy-plain-exchange-5x-desc": "Although I already have some, a bit more will come in handy. I will buy 5 pieces for 1 crown.",
+  "edenvalrpeconomy:leather-sturdy-plain-exchange-5x-obj": "{0}/5 sturdy tanned leather",
+
+  "edenvalrpeconomy:fat-exchange-60x-title": "I Need Fat Urgently! (60x)",
+  "edenvalrpeconomy:fat-exchange-60x-desc": "We are short on fat for making fur, I will buy 60 lumps for 3 crowns.",
+  "edenvalrpeconomy:fat-exchange-60x-obj": "{0}/60 fat",
+
+  "edenvalrpeconomy:mapbook-exchange-15x-title": "I’m Desperate for Atlases! (15x)",
+  "edenvalrpeconomy:mapbook-exchange-15x-desc": "We are expanding our library with more maps and are short on atlases. I will buy 15 for 3 crowns.",
+  "edenvalrpeconomy:mapbook-exchange-15x-obj": "{0}/15 atlases",
+
+  "edenvalrpeconomy:compass-exchange-60x-title": "I need to acquire a lot of compasses! (60x)",
+  "edenvalrpeconomy:compass-exchange-60x-desc": "For the people that are lost easily and can't figure out world sides I need 20 compasses any type. Will give you 3 crown for that.",
+  "edenvalrpeconomy:compass-exchange-60x-obj": "{0}/60 compasses",
+
+  "edenvalrpeconomy:compass-exchange-20x-title": "I need some of them compasses! (20x)",
+  "edenvalrpeconomy:compass-exchange-20x-desc": "For the people that are lost easily and can't figure out world sides I need 20 compasses any type. Will give you 1 crown for that.",
+  "edenvalrpeconomy:compass-exchange-20x-obj": "{0}/20 compasses",
+
+  "edenvalrpeconomy:fat-exchange-20x-title": "I Could Use Some Fat! (20x)",
+  "edenvalrpeconomy:fat-exchange-20x-desc": "Although I have plenty of fat, I will take 20 more lumps for 1 crown.",
+  "edenvalrpeconomy:fat-exchange-20x-obj": "{0}/20 fat",
+
+  "edenvalrpeconomy:mapbook-exchange-5x-title": "I Need a Few Atlases! (5x)",
+  "edenvalrpeconomy:mapbook-exchange-5x-desc": "We don't lack atlases, but 5 more will always come in handy. I will pay you 1 crown.",
+  "edenvalrpeconomy:mapbook-exchange-5x-obj": "{0}/5 atlases",
+
+  "edenvalrpeconomy:ore-lignite-exchange-288x-title": "I’m Running Out of Lignite Coal! (288x)",
+  "edenvalrpeconomy:ore-lignite-exchange-288x-desc": "We are short on coal for heating, I will buy a larger supply. I will pay 6 crowns.",
+  "edenvalrpeconomy:ore-lignite-exchange-288x-obj": "{0}/288 lignite coal",
+
+  "edenvalrpeconomy:ore-bituminouscoal-exchange-192x-title": "I Need Bituminous Coal! (192x)",
+  "edenvalrpeconomy:ore-bituminouscoal-exchange-192x-desc": "I will buy a large supply of coal. I will pay 6 crowns.",
+  "edenvalrpeconomy:ore-bituminouscoal-exchange-192x-obj": "{0}/192 bituminous coal",
+
+  "edenvalrpeconomy:charcoal-exchange-320x-title": "I’m Desperate for Charcoal! (320x)",
+  "edenvalrpeconomy:charcoal-exchange-320x-desc": "We are short on charcoal for furnaces, I will buy a larger supply. I will pay 5 crowns.",
+  "edenvalrpeconomy:charcoal-exchange-320x-obj": "{0}/320 charcoal",
+
+  "edenvalrpeconomy:peatbrick-exchange-330x-title": "I Need Peat Bricks! (330x)",
+  "edenvalrpeconomy:peatbrick-exchange-330x-desc": "We need a supply of peat bricks for the kitchen, I will pay 3 crowns for them.",
+  "edenvalrpeconomy:peatbrick-exchange-330x-obj": "{0}/330 peat bricks",
+
+  "edenvalrpeconomy:ore-lignite-exchange-48x-title": "I Could Use Some Lignite Coal! (48x)",
+  "edenvalrpeconomy:ore-lignite-exchange-48x-desc": "Although we have a supply of coal, a few more lumps will fit. I will pay 1 crown.",
+  "edenvalrpeconomy:ore-lignite-exchange-48x-obj": "{0}/48 lignite coal",
+
+  "edenvalrpeconomy:ore-bituminouscoal-exchange-32x-title": "I Need a Bit of Bituminous Coal! (32x)",
+  "edenvalrpeconomy:ore-bituminouscoal-exchange-32x-desc": "Although we have a supply of coal, a few more lumps will fit. I will pay 1 crown.",
+  "edenvalrpeconomy:ore-bituminouscoal-exchange-32x-obj": "{0}/32 bituminous coal",
+
+  "edenvalrpeconomy:charcoal-exchange-64x-title": "I’m Short on Charcoal! (64x)",
+  "edenvalrpeconomy:charcoal-exchange-64x-desc": "The bin is almost full, but I can still fit this much. I will pay 1 crown.",
+  "edenvalrpeconomy:charcoal-exchange-64x-obj": "{0}/64 charcoal",
+
+  "edenvalrpeconomy:peatbrick-exchange-110x-title": "I Need a Few Peat Bricks! (110x)",
+  "edenvalrpeconomy:peatbrick-exchange-110x-desc": "The kitchen has a pile of peat bricks, but I can still fit this many. I will pay 1 crown.",
+  "edenvalrpeconomy:peatbrick-exchange-110x-obj": "{0}/110 peat bricks",
+
+  "edenvalrpeconomy:gear-rusty-exchange-50x-title": "I’m Desperate for Rusty Gears! (50x)",
+  "edenvalrpeconomy:gear-rusty-exchange-50x-desc": "Hello, I will buy 50 rusty gears for 5 crowns.",
+  "edenvalrpeconomy:gear-rusty-exchange-50x-obj": "{0}/50 rusty gears",
+
+  "edenvalrpeconomy:metal-scraps-exchange-50x-title": "I Need Metal Scraps! (50x)",
+  "edenvalrpeconomy:metal-scraps-exchange-50x-desc": "I will buy some scrap metal for 5 crowns.",
+  "edenvalrpeconomy:metal-scraps-exchange-50x-obj": "{0}/50 metal scraps",
+
+  "edenvalrpeconomy:metal-parts-exchange-50x-title": "I’m Running Out of Metal Parts! (50x)",
+  "edenvalrpeconomy:metal-parts-exchange-50x-desc": "I will buy some parts for 5 crowns.",
+  "edenvalrpeconomy:metal-parts-exchange-50x-obj": "{0}/50 metal parts",
+
+  "edenvalrpeconomy:gear-rusty-exchange-10x-title": "I Could Use Some Rusty Gears! (10x)",
+  "edenvalrpeconomy:gear-rusty-exchange-10x-desc": "Although I already have a pile, I will take a few more for 1 crown.",
+  "edenvalrpeconomy:gear-rusty-exchange-10x-obj": "{0}/10 rusty gears",
+
+  "edenvalrpeconomy:metal-scraps-exchange-10x-title": "I Need a Few Metal Scraps! (10x)",
+  "edenvalrpeconomy:metal-scraps-exchange-10x-desc": "I will take a bit more, but not too much. I will pay 1 crown.",
+  "edenvalrpeconomy:metal-scraps-exchange-10x-obj": "{0}/10 metal scraps",
+
+  "edenvalrpeconomy:metal-parts-exchange-10x-title": "I’m Short on Metal Parts! (10x)",
+  "edenvalrpeconomy:metal-parts-exchange-10x-desc": "I have quite a lot, but I will take a few more. I will pay you 1 crown.",
+  "edenvalrpeconomy:metal-parts-exchange-10x-obj": "{0}/10 metal parts"
+}

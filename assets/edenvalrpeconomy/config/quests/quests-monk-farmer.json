@@ -1,0 +1,116 @@
+[ 
+    {
+        "id": "edenvalrpeconomy:flour-exchange-512x",
+        "cooldown": 2,
+        "perPlayer": false,
+        "gatherObjectives": [
+            {
+                "validCodes": [
+                    "flour-*"
+                ],
+                "demand": 512
+            }
+        ],
+        "itemRewards": [
+            {
+                "itemCode": "edenvalrpeconomy:coin",
+                "amount": 2
+            }
+        ]
+    },
+    {
+        "id": "edenvalrpeconomy:packed-pemmican-exchange-30x",
+        "cooldown": 3,
+        "perPlayer": false,
+        "gatherObjectives": [
+            {
+                "validCodes": [
+                    "pemmican-pack"
+                ],
+                "demand": 30
+            }
+        ],
+        "itemRewards": [
+            {
+                "itemCode": "edenvalrpeconomy:coin",
+                "amount": 30
+            }
+        ]
+    },
+    {
+        "id": "edenvalrpeconomy:mushroom-pate-exchange-30x",
+        "cooldown": 3,
+        "perPlayer": false,
+        "gatherObjectives": [
+            {
+                "validCodes": [
+                    "mushroompatebar"
+                ],
+                "demand": 30
+            }
+        ],
+        "itemRewards": [
+            {
+                "itemCode": "edenvalrpeconomy:coin",
+                "amount": 6
+            }
+        ]
+    },
+    {
+        "id": "edenvalrpeconomy:flour-exchange-256x",
+        "cooldown": 1,
+        "perPlayer": true,
+        "gatherObjectives": [
+            {
+                "validCodes": [
+                    "flour-rye"
+                ],
+                "demand": 256
+            }
+        ],
+        "itemRewards": [
+            {
+                "itemCode": "edenvalrpeconomy:coin",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": "edenvalrpeconomy:packed-pemmican-exchange-10x",
+        "cooldown": 1,
+        "perPlayer": true,
+        "gatherObjectives": [
+            {
+                "validCodes": [
+                    "pemmican-pack"
+                ],
+                "demand": 10
+            }
+        ],
+        "itemRewards": [
+            {
+                "itemCode": "edenvalrpeconomy:coin",
+                "amount": 10
+            }
+        ]
+    },
+    {
+        "id": "edenvalrpeconomy:mushroom-pate-exchange-10x",
+        "cooldown": 1,
+        "perPlayer": true,
+        "gatherObjectives": [
+            {
+                "validCodes": [
+                    "mushroompatebar"
+                ],
+                "demand": 10
+            }
+        ],
+        "itemRewards": [
+            {
+                "itemCode": "edenvalrpeconomy:coin",
+                "amount": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,117 @@
+[ 
+    {
+        "id": "edenvalrpeconomy:fat-exchange-60x",
+        "cooldown": 2,
+        "perPlayer": false,
+        "gatherObjectives": [
+            {
+                "validCodes": [
+                    "fat"
+                ],
+                "demand": 60
+            }
+        ],
+        "itemRewards": [
+            {
+                "itemCode": "edenvalrpeconomy:coin",
+                "amount": 3
+            }
+        ]
+    },
+    {
+        "id": "edenvalrpeconomy:mapbook-exchange-15x",
+        "cooldown": 2,
+        "perPlayer": false,
+        "gatherObjectives": [
+            {
+                "validCodes": [
+                    "mapbook"
+                ],
+                "demand": 15
+            }
+        ],
+        "itemRewards": [
+            {
+                "itemCode": "edenvalrpeconomy:coin",
+                "amount": 3
+            }
+        ]
+    },
+    {
+        "id": "edenvalrpeconomy:fat-exchange-20x",
+        "cooldown": 1,
+        "perPlayer": true,
+        "gatherObjectives": [
+            {
+                "validCodes": [
+                    "fat"
+                ],
+                "demand": 20
+            }
+        ],
+        "itemRewards": [
+            {
+                "itemCode": "edenvalrpeconomy:coin",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": "edenvalrpeconomy:mapbook-exchange-5x",
+        "cooldown": 1,
+        "perPlayer": true,
+        "gatherObjectives": [
+            {
+                "validCodes": [
+                    "mapbook"
+                ],
+                "demand": 5
+            }
+        ],
+        "itemRewards": [
+            {
+                "itemCode": "edenvalrpeconomy:coin",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": "edenvalrpeconomy:compass-exchange-60x",
+        "cooldown": 1,
+        "perPlayer": true,
+        "gatherObjectives": [
+            {
+                "validCodes": [
+                    "compass-*"
+                ],
+                "demand": 60
+            }
+        ],
+        "itemRewards": [
+            {
+                "itemCode": "edenvalrpeconomy:coin",
+                "amount": 3
+            }
+        ]
+    },
+    {
+        "id": "edenvalrpeconomy:compass-exchange-20x",
+        "cooldown": 1,
+        "perPlayer": true,
+        "gatherObjectives": [
+            {
+                "validCodes": [
+                    "compass-*"
+                ],
+                "demand": 20
+            }
+        ],
+        "itemRewards": [
+            {
+                "itemCode": "edenvalrpeconomy:coin",
+                "amount": 1
+            }
+        ]
+    }
+    
+]

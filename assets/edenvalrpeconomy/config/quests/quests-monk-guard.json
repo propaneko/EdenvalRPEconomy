@@ -1,0 +1,117 @@
+[ 
+    {
+        "id": "edenvalrpeconomy:gear-rusty-exchange-50x",
+        "cooldown": 2,
+        "perPlayer": false,
+        "gatherObjectives": [
+            {
+                "validCodes": [
+                    "gear-rusty"
+                ],
+                "demand": 50
+            }
+        ],
+        "itemRewards": [
+            {
+                "itemCode": "edenvalrpeconomy:coin",
+                "amount": 5
+            }
+        ]
+    },
+    {
+        "id": "edenvalrpeconomy:metal-scraps-exchange-50x",
+        "cooldown": 2,
+        "perPlayer": false,
+        "gatherObjectives": [
+            {
+                "validCodes": [
+                    "metal-scraps"
+                ],
+                "demand": 50
+            }
+        ],
+        "itemRewards": [
+            {
+                "itemCode": "edenvalrpeconomy:coin",
+                "amount": 5
+            }
+        ]
+    },
+    {
+        "id": "edenvalrpeconomy:metal-parts-exchange-50x",
+        "cooldown": 2,
+        "perPlayer": false,
+        "gatherObjectives": [
+            {
+                "validCodes": [
+                    "metal-parts"
+                ],
+                "demand": 50
+            }
+        ],
+        "itemRewards": [
+            {
+                "itemCode": "edenvalrpeconomy:coin",
+                "amount": 5
+            }
+        ]
+    }
+    ,
+    {
+        "id": "edenvalrpeconomy:gear-rusty-exchange-10x",
+        "cooldown": 1,
+        "perPlayer": true,
+        "gatherObjectives": [
+            {
+                "validCodes": [
+                    "gear-rusty"
+                ],
+                "demand": 10
+            }
+        ],
+        "itemRewards": [
+            {
+                "itemCode": "edenvalrpeconomy:coin",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": "edenvalrpeconomy:metal-scraps-exchange-10x",
+        "cooldown": 1,
+        "perPlayer": true,
+        "gatherObjectives": [
+            {
+                "validCodes": [
+                    "metal-scraps"
+                ],
+                "demand": 10
+            }
+        ],
+        "itemRewards": [
+            {
+                "itemCode": "edenvalrpeconomy:coin",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": "edenvalrpeconomy:metal-parts-exchange-10x",
+        "cooldown": 1,
+        "perPlayer": true,
+        "gatherObjectives": [
+            {
+                "validCodes": [
+                    "metal-parts"
+                ],
+                "demand": 10
+            }
+        ],
+        "itemRewards": [
+            {
+                "itemCode": "edenvalrpeconomy:coin",
+                "amount": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,180 @@
+[ 
+    {
+        "id": "edenvalrpeconomy:cloth-exchange-16x",
+        "cooldown": 0,
+        "perPlayer": false,
+        "gatherObjectives": [
+            {
+                "validCodes": [
+                    "cloth-plain",
+                    "cloth-mordant",
+                    "cloth-blue",
+                    "cloth-red",
+                    "cloth-yellow",
+                    "cloth-green",
+                    "cloth-purple",
+                    "cloth-pink",
+                    "cloth-orange",
+                    "cloth-brown",
+                    "cloth-gray",
+                    "cloth-black",
+                    "cloth-white"
+                ],
+                "demand": 16
+            }
+        ],
+        "itemRewards": [
+            {
+                "itemCode": "edenvalrpeconomy:coin",
+                "amount": 4
+            }
+        ]
+    },
+    {
+        "id": "edenvalrpeconomy:cloth-wool-exchange-16x",
+        "cooldown": 0,
+        "perPlayer": false,
+        "gatherObjectives": [
+            {
+                "validCodes": [
+                    "cloth-wool-*"
+                ],
+                "demand": 16
+            }
+        ],
+        "itemRewards": [
+            {
+                "itemCode": "edenvalrpeconomy:coin",
+                "amount": 4
+            }
+        ]
+    },
+    {
+        "id": "edenvalrpeconomy:sewingkit-exchange-8x",
+        "cooldown": 0,
+        "perPlayer": false,
+        "gatherObjectives": [
+            {
+                "validCodes": [
+                    "sewingkit"
+                ],
+                "demand": 8
+            }
+        ],
+        "itemRewards": [
+            {
+                "itemCode": "edenvalrpeconomy:coin",
+                "amount": 4
+            }
+        ]
+    },
+    {
+        "id": "edenvalrpeconomy:leather-sturdy-plain-exchange-30x",
+        "cooldown": 3,
+        "perPlayer": false,
+        "gatherObjectives": [
+            {
+                "validCodes": [
+                    "leather-sturdy-plain"
+                ],
+                "demand": 30
+            }
+        ],
+        "itemRewards": [
+            {
+                "itemCode": "edenvalrpeconomy:coin",
+                "amount": 6
+            }
+        ]
+    }
+    ,
+    {
+        "id": "edenvalrpeconomy:cloth-exchange-4x",
+        "cooldown": 0,
+        "perPlayer": true,
+        "gatherObjectives": [
+            {
+                "validCodes": [
+                    "cloth-plain",
+                    "cloth-mordant",
+                    "cloth-blue",
+                    "cloth-red",
+                    "cloth-yellow",
+                    "cloth-green",
+                    "cloth-purple",
+                    "cloth-pink",
+                    "cloth-orange",
+                    "cloth-brown",
+                    "cloth-gray",
+                    "cloth-black",
+                    "cloth-white"
+                ],
+                "demand": 4
+            }
+        ],
+        "itemRewards": [
+            {
+                "itemCode": "edenvalrpeconomy:coin",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": "edenvalrpeconomy:cloth-wool-exchange-4x",
+        "cooldown": 0,
+        "perPlayer": true,
+        "gatherObjectives": [
+            {
+                "validCodes": [
+                    "cloth-wool-*"
+                ],
+                "demand": 4
+            }
+        ],
+        "itemRewards": [
+            {
+                "itemCode": "edenvalrpeconomy:coin",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": "edenvalrpeconomy:sewingkit-exchange-4x",
+        "cooldown": 0,
+        "perPlayer": true,
+        "gatherObjectives": [
+            {
+                "validCodes": [
+                    "sewingkit"
+                ],
+                "demand": 4
+            }
+        ],
+        "itemRewards": [
+            {
+                "itemCode": "edenvalrpeconomy:coin",
+                "amount": 2
+            }
+        ]
+    },
+    {
+        "id": "edenvalrpeconomy:leather-sturdy-plain-exchange-5x",
+        "cooldown": 1,
+        "perPlayer": true,
+        "gatherObjectives": [
+            {
+                "validCodes": [
+                    "leather-sturdy-plain"
+                ],
+                "demand": 5
+            }
+        ],
+        "itemRewards": [
+            {
+                "itemCode": "edenvalrpeconomy:coin",
+                "amount": 1
+            }
+        ]
+    }
+    
+]

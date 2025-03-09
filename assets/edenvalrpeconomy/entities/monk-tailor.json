@@ -1,0 +1,612 @@
+{
+  "code": "monk-tailor",
+  "class": "EntityVillager",
+  "canClimb": true,
+  "hitboxSize": { "x": 0.6, "y": 1.75 },
+  "deadHitboxSize": { "x": 0.75, "y": 0.5 },
+  "behaviorConfigs": {
+    "conversable": {
+      "dialogueByType": {
+        "*": "game:config/dialogue/villager"
+      },
+      "approachPlayer": false
+    }
+  },
+  "__comment": "To spawn in creative: /entity spawn villager-nadiya-female-generic-generic 1",
+  "allowedVariants": [
+    "monk-tailor"
+  ],
+  "attributes": {
+    "tradePropsFileByType": {
+      "@.*-(agnieszka|alba|gerhardt|liga|tad|wall)": "game:config/tradelists/villager-{type}",
+      "*-arzhur": "game:config/tradelists/villager-liga"
+    },
+    "voiceSoundsByType": {
+      "monk-tailor": [
+        "game:sounds/voice/duduk/",
+        "game:sounds/voice/harp/",
+        "game:sounds/voice/oboe/",
+        "game:sounds/voice/ocarina/",
+        "game:sounds/voice/trumpet/",
+        "game:sounds/voice/tuba/"
+      ]
+    },
+    "personalities": {
+      "balanced": {
+        "chordDelayMul": 1.3,
+        "pitchModifier": 0.7,
+        "volumneModifier": 1.1
+      },
+      "formal": {
+        "chordDelayMul": 1.3,
+        "pitchModifier": 0.7,
+        "volumneModifier": 1.1
+      },
+      "lazy": {
+        "chordDelayMul": 1.3,
+        "pitchModifier": 0.7,
+        "volumneModifier": 1.1
+      },
+      "randy": {
+        "chordDelayMul": 1.3,
+        "pitchModifier": 0.7,
+        "volumneModifier": 1.1
+      }
+    },
+    "shouldSwivelFromMotion": false,
+    "outfitConfigFileName": "monkaccesories-male",
+    "partialRandomOutfitsByType": {
+      "monk-tailor": {
+        "naked": [],
+        "skin-face": [
+          { "Code": "skin-face-blacksmith" }
+        ],
+        "eyebrows": [
+          { "Code": "eyebrows-normal1" },
+          { "Code": "eyebrows-normal2" },
+          { "Code": "eyebrows-normal3" },
+          { "Code": "eyebrows-normal4" },
+          { "Code": "eyebrows-normal5" }
+        ],
+        "eyelashes": [
+          { "Code": "eyelashes-normal1" },
+          { "Code": "eyelashes-normal2" }
+        ],
+        "faceextra": [
+          { "Code": "nothing", "Weight": 20.0 },
+          { "Code": "faceextra-freckles1", "Weight": 1.0 },
+          { "Code": "faceextra-freckles2", "Weight": 1.0 },
+          { "Code": "faceextra-freckles3", "Weight": 1.0 },
+          { "Code": "faceextra-notenoughsleep1", "Weight": 1.0 }
+        ],
+        "bodyskin": [
+          { "Code": "bodyskin-1" },
+          { "Code": "bodyskin-2" },
+          { "Code": "bodyskin-3" },
+          { "Code": "bodyskin-4" },
+          { "Code": "bodyskin-5" },
+          { "Code": "bodyskin-6" },
+          { "Code": "bodyskin-7" },
+          { "Code": "bodyskin-8" },
+          { "Code": "bodyskin-9" },
+          { "Code": "bodyskin-10" },
+          { "Code": "bodyskin-11" },
+          { "Code": "bodyskin-12" },
+          { "Code": "bodyskin-13" },
+          { "Code": "bodyskin-14" },
+          { "Code": "bodyskin-15" },
+          { "Code": "bodyskin-16" },
+          { "Code": "bodyskin-17" },
+          { "Code": "bodyskin-18" },
+          { "Code": "bodyskin-19" },
+          { "Code": "bodyskin-20" },
+          { "Code": "bodyskin-21" },
+          { "Code": "bodyskin-22" },
+          { "Code": "bodyskin-27" },
+          { "Code": "bodyskin-28" },
+          { "Code": "bodyskin-29" }
+        ],
+        "iris": [
+          { "Code": "iris-1" },
+          { "Code": "iris-2" },
+          { "Code": "iris-3" },
+          { "Code": "iris-4" },
+          { "Code": "iris-5" },
+          { "Code": "iris-6" },
+          { "Code": "iris-7" },
+          { "Code": "iris-8" },
+          { "Code": "iris-9" },
+          { "Code": "iris-10" },
+          { "Code": "iris-11" },
+          { "Code": "iris-12" },
+          { "Code": "iris-13" },
+          { "Code": "iris-14" },
+          { "Code": "iris-15" },
+          { "Code": "iris-16" },
+          { "Code": "iris-17" },
+          { "Code": "iris-18" },
+          { "Code": "iris-19" },
+          { "Code": "iris-20" },
+          { "Code": "iris-21" },
+          { "Code": "iris-22" },
+          { "Code": "iris-23" },
+          { "Code": "iris-24" },
+          { "Code": "iris-25" }
+        ],
+        "lips": [
+          { "Code": "lips-normal1" },
+          { "Code": "lips-normal2" },
+          { "Code": "lips-normal3" },
+          { "Code": "lips-normal4" },
+          { "Code": "lips-normal5" },
+          { "Code": "lips-normal6" },
+          { "Code": "lips-normal7" },
+          { "Code": "lips-normal8" },
+          { "Code": "lips-normal9" },
+          { "Code": "lips-normal10" },
+          { "Code": "lips-normal11" }
+        ],
+        "scar": [],
+        "sclera": [
+          { "Code": "sclera-normal1" },
+          { "Code": "sclera-normal2" },
+          { "Code": "sclera-normal3" }
+        ],
+        "tatoo": [
+          { "Code": "nothing", "Weight": 40.0 },
+          { "Code": "tatoo-normal1", "Weight": 1.0 },
+          { "Code": "tatoo-normal2", "Weight": 1.0 },
+          { "Code": "tatoo-normal3", "Weight": 1.0 },
+          { "Code": "tatoo-normal4", "Weight": 1.0 }
+        ],
+        "hair-base": [
+          { "Code": "nothing" },
+          { "Code": "hair-00" },
+          { "Code": "hair-01" },
+          { "Code": "hair-02" },
+          { "Code": "hair-03" },
+          { "Code": "hair-05" },
+          { "Code": "hair-07" },
+          { "Code": "hair-09" },
+          { "Code": "hair-12" },
+          { "Code": "hair-15" },
+          { "Code": "hair-16" },
+          { "Code": "hair-17" },
+          { "Code": "hair-bald-horseshoe" },
+          { "Code": "hair-bald-iroquis" },
+          { "Code": "hair-bald-topknot" },
+          { "Code": "hair-long-dreads" },
+          { "Code": "hair-medium-afro" },
+          { "Code": "hair-medium-basic" },
+          { "Code": "hair-medium-layered" },
+          { "Code": "hair-medium-spiky" },
+          { "Code": "hair-short-indigenousbalding" },
+          { "Code": "hair-short-sideshave" },
+          { "Code": "hair-short-trimmed" }
+        ],
+        "beard": [
+          { "Code": "nothing" },
+          { "Code": "beard-1" },
+          { "Code": "beard-2" },
+          { "Code": "beard-3" },
+          { "Code": "beard-4" },
+          { "Code": "beard-5" },
+          { "Code": "beard-6" },
+          { "Code": "beard-7" },
+          { "Code": "beard-8" },
+          { "Code": "beard-full1" },
+          { "Code": "beard-full2" },
+          { "Code": "beard-full3" },
+          { "Code": "beard-full4" },
+          { "Code": "beard-full5" },
+          { "Code": "beard-full6" },
+          { "Code": "beard-full7" },
+          { "Code": "beard-full8" }
+        ],
+        "mustache": [
+          { "Code": "nothing" },
+          { "Code": "mustache-1" },
+          { "Code": "mustache-2" },
+          { "Code": "mustache-3" },
+          { "Code": "mustache-4" },
+          { "Code": "mustache-5" }
+        ],
+        "hair-base2": [],
+        "hair-base3": [],
+        "haircolor": [
+          { "Code": "cordovan" },
+          { "Code": "eerieblack" },
+          { "Code": "harvestgold" },
+          { "Code": "liver" },
+          { "Code": "oldburgundy" },
+          { "Code": "rosewood" },
+          { "Code": "russet" },
+          { "Code": "sanddune" },
+          { "Code": "slategray" },
+          { "Code": "wheat" },
+          { "Code": "wintergreendream" }
+        ],
+        "arm": [
+          { "Code": "nothing", "Weight": 10 }
+        ],
+        "face": [],
+        "foot": [
+          { "Code": "foot-forlorn-shoes", "Weight": 1.0 }
+        ],
+        "hand": [
+          { "Code":  "hand-forlorn-bracer", "Weight": 1.0 }
+        ],
+        "head": [
+          { "Code":  "head-tailor" }
+        ],
+        "lowerbody": [
+          { "Code":  "lowerbody-pants-tailor", "Weight": 1.0 }
+        ],
+        "neck": [{ "Code": "neck-gear-amulet-temporal", "Weight": 40.0 }],
+        "shoulder": [
+          { "Code": "shoulder-forlorn-sash", "Weight": 5.0 }
+        ],
+        "upperbody": [
+          { "Code": "upperbody-forlorn-tunic", "Weight": 1.0 }
+        ],
+        "upperbodyover": [{ "Code": "upperbodyover-male-shortsleeve-tailor", "Weight": 1.0 }],
+        "waist": [
+          { "Code": "waist-tailor", "Weight": 1.0 }
+        ]
+      }
+    }
+  },
+  "client": {
+    "renderer": "Shape",
+    "shape":{ "base": "game:entity/humanoid/villager-male" },
+    "behaviors": [
+      { "code": "nametag", "showtagonlywhentargeted": true },
+      { "code": "repulseagents" },
+      { "code": "controlledphysics", "stepHeight": 1.01 },
+      { "code": "interpolateposition" },
+      {
+        "code": "questgiver"
+      },
+      {
+        "code": "Villager",
+        "professionByType": {
+          "*": "shepherd"
+        }
+      }
+    ],
+    "animations": [
+      {
+        "code": "die",
+        "animation": "die",
+        "animationSpeed": 1.75,
+        "weight": 10,
+        "blendMode": "AddAverage"
+      },
+      {
+        "code": "hurt",
+        "animation": "hurt",
+        "animationSpeed": 2,
+        "blendMode": "AddAverage"
+      },
+      {
+        "code": "rowdywelcome",
+        "animation": "rowdywelcome",
+        "blendMode": "AddAverage"
+      },
+      {
+        "code": "lazywelcome",
+        "animation": "lazywelcome",
+        "blendMode": "AddAverage"
+      },
+      { "code": "lazynod", "animation": "lazynod", "blendMode": "AddAverage" },
+      {
+        "code": "lazy-idle",
+        "animation": "idle",
+        "blendMode": "Average"
+      },
+      {
+        "code": "idle",
+        "animation": "idle",
+        "blendMode": "Average"
+      },
+      {
+        "code": "balanced-sleep",
+        "animation": "lie",
+        "blendMode": "AddAverage"
+      },
+      {
+        "code": "sleep",
+        "animation": "lie",
+        "blendMode": "AddAverage"
+      },
+      {
+        "code": "balanced-lie",
+        "animation": "lie",
+        "blendMode": "AddAverage"
+      },
+      {
+        "code": "lie",
+        "animation": "lie",
+        "blendMode": "AddAverage"
+      },
+      {
+        "code": "die",
+        "animation": "die",
+        "animationSpeed": 1.75,
+        "weight": 10,
+        "blendMode": "AddAverage"
+      },
+      {
+        "code": "hurt",
+        "animation": "hurt",
+        "animationSpeed": 2,
+        "blendMode": "AddAverage"
+      },
+      {
+        "animation": "balanced-walk",
+        "blendMode": "Average"
+      },
+      {
+        "animation": "balanced-hit",
+        "blendMode": "AddAverage",
+        "animationSpeed": 0.7,
+        "animationSound": {
+          "frame": 5,
+          "location": "effect/anvilhit*"
+        }
+      },
+      {
+        "animation": "balanced-run",
+        "blendMode": "Average"
+      },
+      {
+        "animation": "balanced-walk",
+        "blendMode": "Average"
+      },
+      {
+        "animation": "balanced-hoe-till",
+        "blendMode": "Average"
+      },
+      {
+        "animation": "balanced-sitfloor",
+        "blendMode": "Average"
+      },
+      {
+        "animation": "balanced-sitedge",
+        "blendMode": "Average"
+      },
+      {
+        "animation": "balanced-sitchair",
+        "blendMode": "Average"
+      },
+      {
+        "animation": "balanced-sitchairtable",
+        "blendMode": "Average"
+      },
+      {
+        "animation": "balanced-lie",
+        "blendMode": "Average"
+      },
+      {
+        "animation": "balanced-sitfloor",
+        "blendMode": "Average"
+      }
+    ]
+  },
+  "server": {
+    "attributes": {
+      "pathfinder": {
+        "minTurnAnglePerSec": 720,
+        "maxTurnAnglePerSec": 1440
+      }
+    },
+    "behaviors": [
+      {
+        "code": "nametag",
+        "showtagonlywhentargeted": true,
+        "selectFromRandomNameByType": {
+          "monk-tailor": [
+            "Yern",
+            "Gild",
+            "Hans",
+            "Hector",
+            "McCrae",
+            "Yoskolo",
+            "Grit",
+            "Bounder"
+          ],
+          "monk-tailor-nadiya-female-generic-generic": [
+            "Yvette",
+            "Gretchen",
+            "Hilda",
+            "Sarah",
+            "Molly",
+            "Yadira",
+            "Grace",
+            "Brianna"
+          ],
+          "monk-tailor-nadiya-*": ["{type}"]
+        }
+      },
+      { "code": "repulseagents" },
+      {
+        "code": "controlledphysics",
+        "stepHeightByType": {
+          "*": 1.05
+        }
+      },
+      { "code": "reviveondeath", "minHours": 24, "maxHours": 72 },
+      {
+        "code": "health",
+        "currenthealth": 1000.0,
+        "maxhealth": 1000.0
+      },
+      {
+        "code": "emotionstates",
+        "states": [
+          {
+            "code": "aggressiveondamage",
+            "duration": 6,
+            "chance": 0.6,
+            "slot": 0,
+            "priority": 2,
+            "accumType": "noaccum"
+          },
+          {
+            "code": "fleeondamage",
+            "duration": 10,
+            "chance": 0.4,
+            "slot": 0,
+            "priority": 1,
+            "accumType": "max"
+          }
+        ]
+      },
+      {
+        "code": "taskai",
+        "aitasks": [
+          {
+						"codeByType": { "*": "villagermeleeattack" },
+						"entityCodes": ["rustborn-*", "wrotwalker-*", "witinerant-*", "wroamer-*", "wrotpillar-*", "wboiler-*", "wgolem-*" ,"blightworm-*" , "banefly" ,"caretaker-*" ,"shepherd-*" ,  "drifter-*", "locust-*", "bear-*", "wolf-male", "wolf-female", "looter", "hound-*", "bandit-*", "poacher-*", "yeoman-archer"],
+						"priority": 2,
+						"damageByType": { "*": 6 },
+						"damageTier": 3,
+						"mincooldown": 1500,
+						"maxcooldown": 2500,
+						"attackDurationMs": 900,
+						"damagePlayerAtMs": 300,
+						"animationByType": { "*": "Attack" },
+						"stabanimation": "SpearStab",
+						"stabanimationspeed": 0.7,
+						"slashanimation": "SwordHit",
+						"slashanimationspeed": 0.7,
+						"animationSpeedByType": { "*":  2 },
+						"durationMs": 1300,
+						"releaseAtMs": 1000,
+						"seekingRange": 25,
+						"animationRelase": "BowHit",
+						"drawingsound": "game:sounds/bow-draw.ogg",
+						"shootingsound": "game:sounds/bow-release.ogg",
+						"projectile": "game:arrow-iron"
+					},
+					{
+						"code": "fleeentity",
+						"entityCodesByType": {
+							"*": []
+						},
+						"priority": 1.5,
+						"movespeed": 0.035,
+						"seekingRange": 4,
+						"animationByType": { "*": "BalancedRun" },
+						"animationSpeed": 1.75
+					},
+          {
+            "code": "idle",
+            "priority": 1.2,
+            "minduration": 2500,
+            "maxduration": 2500,
+            "mincooldown": 2000,
+            "maxcooldown": 10000,
+            "animation": "laugh"
+          },
+          {
+            "code": "idle",
+            "priority": 1.2,
+            "minduration": 2500,
+            "maxduration": 2500,
+            "mincooldown": 5000,
+            "maxcooldown": 30000,
+            "animation": "idle2"
+          },
+          {
+            "code": "wander",
+            "priority": 1.0,
+            "movespeed": 0.01,
+            "animation": "Walk",
+            "wanderChance": 0.005,
+            "maxDistanceToSpawn": 6,
+            "wanderRangeMin": 1,
+            "wanderRangeMax": 3
+          },
+          {
+            "code": "villagergotowork",
+            "priority": 1.4,
+            "movespeed": 0.01,
+            "animation": "Walk",
+            "mincooldown": 30000,
+            "maxcooldown": 60000,
+            "duringDayTimeFrames": [{ "fromHour": 7, "toHour": 16 }],
+            "maxdistance": 200
+          },
+          {
+            "code": "villagergotogather",
+            "priority": 1.4,
+            "movespeed": 0.01,
+            "animation": "Walk",
+            "mincooldown": 30000,
+            "maxcooldown": 60000,
+            "duringDayTimeFrames": [{ "fromHour": 17, "toHour": 21 }],
+            "maxdistance": 200
+          },
+          {
+            "code": "villagersleep",
+            "priority": 1.4,
+            "movespeed": 0.01,
+            "animation": "Walk",
+            "duringDayTimeFrames": [
+              { "fromHour": 22, "toHour": 25 },
+              { "fromHour": -1, "toHour": 6 }
+            ]
+          },
+          {
+            "code": "villagersocialize",
+            "priority": 1.3,
+            "mincooldown": 10000,
+            "maxcooldown": 30000,
+            "movespeed": 0.01,
+            "animation": "Walk",
+            "interact": "welcome"
+          },
+          {
+            "code": "lookaround",
+            "priority": 0.5
+          },
+          {
+            "code": "villagerfilltrough",
+            "weapon": "sword",
+            "minduration": 3500,
+            "maxduration": 3500,
+            "mincooldown": 60000,
+            "maxcooldown": 120000,
+            "maxdistance": 10,
+            "animation": "Walk",
+            "animationSpeed":1,
+            "priority": 1.4,
+            "movespeed": 0.01
+          }
+        ]
+      },
+      {
+        "code": "questgiver",
+        "quests": [
+          "edenvalrpeconomy:cloth-exchange-16x",
+          "edenvalrpeconomy:cloth-wool-exchange-16x",
+          "edenvalrpeconomy:sewingkit-exchange-8x",
+          "edenvalrpeconomy:leather-sturdy-plain-exchange-30x",
+          "edenvalrpeconomy:cloth-exchange-4x",
+          "edenvalrpeconomy:cloth-wool-exchange-4x",
+          "edenvalrpeconomy:sewingkit-exchange-4x",
+          "edenvalrpeconomy:leather-sturdy-plain-exchange-5x"
+      ],
+        "selectrandom": false
+      },
+      {
+        "code": "Villager",
+        "professionByType": {
+          "*": "shepherd"
+        }
+      }
+    ]
+  },
+  "sounds": {}
+}

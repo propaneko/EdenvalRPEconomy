@@ -1,0 +1,16 @@
+{
+    "type": "content",
+    "modid": "edenvalrpeconomy",
+    "name": "Edenval RP Economy and Quests",
+    "side": "universal",
+    "authors": [
+        "propaneko"
+    ],
+    "description": "Edenval RP Economy and Quests",
+    "version": "0.0.1",
+    "dependencies": {
+        "game": "*",
+        "vsquest": "*",
+        "vsvillage": "*"
+    }
+}

@@ -1,0 +1,9 @@
+[{
+    "op": "add",
+    "file": "vsvillage:recipes/grid/villagerhorn",
+    "path": "/0/enabled",
+    "value": false,
+    "dependsOn": [
+        { "modid": "vsvillage" }
+    ]
+}]

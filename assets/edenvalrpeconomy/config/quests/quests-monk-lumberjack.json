@@ -1,0 +1,155 @@
+[ 
+    {
+        "id": "edenvalrpeconomy:ore-lignite-exchange-288x",
+        "cooldown": 2,
+        "perPlayer": false,
+        "gatherObjectives": [
+            {
+                "validCodes": [
+                    "ore-lignite"
+                ],
+                "demand": 288
+            }
+        ],
+        "itemRewards": [
+            {
+                "itemCode": "edenvalrpeconomy:coin",
+                "amount": 6
+            }
+        ]
+    },
+    {
+        "id": "edenvalrpeconomy:ore-bituminouscoal-exchange-192x",
+        "cooldown": 2,
+        "perPlayer": false,
+        "gatherObjectives": [
+            {
+                "validCodes": [
+                    "ore-bituminouscoal"
+                ],
+                "demand": 192
+            }
+        ],
+        "itemRewards": [
+            {
+                "itemCode": "edenvalrpeconomy:coin",
+                "amount": 6
+            }
+        ]
+    },
+    {
+        "id": "edenvalrpeconomy:charcoal-exchange-320x",
+        "cooldown": 2,
+        "perPlayer": false,
+        "gatherObjectives": [
+            {
+                "validCodes": [
+                    "charcoal"
+                ],
+                "demand": 320
+            }
+        ],
+        "itemRewards": [
+            {
+                "itemCode": "edenvalrpeconomy:coin",
+                "amount": 5
+            }
+        ]
+    },
+    {
+        "id": "edenvalrpeconomy:peatbrick-exchange-330x",
+        "cooldown": 2,
+        "perPlayer": false,
+        "gatherObjectives": [
+            {
+                "validCodes": [
+                    "peatbrick"
+                ],
+                "demand": 330
+            }
+        ],
+        "itemRewards": [
+            {
+                "itemCode": "edenvalrpeconomy:coin",
+                "amount": 3
+            }
+        ]
+    }
+    ,
+    {
+        "id": "edenvalrpeconomy:ore-lignite-exchange-48x",
+        "cooldown": 1,
+        "perPlayer": true,
+        "gatherObjectives": [
+            {
+                "validCodes": [
+                    "ore-lignite"
+                ],
+                "demand": 48
+            }
+        ],
+        "itemRewards": [
+            {
+                "itemCode": "edenvalrpeconomy:coin",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": "edenvalrpeconomy:ore-bituminouscoal-exchange-32x",
+        "cooldown": 1,
+        "perPlayer": true,
+        "gatherObjectives": [
+            {
+                "validCodes": [
+                    "ore-bituminouscoal"
+                ],
+                "demand": 32
+            }
+        ],
+        "itemRewards": [
+            {
+                "itemCode": "edenvalrpeconomy:coin",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": "edenvalrpeconomy:charcoal-exchange-64x",
+        "cooldown": 1,
+        "perPlayer": true,
+        "gatherObjectives": [
+            {
+                "validCodes": [
+                    "charcoal"
+                ],
+                "demand": 64
+            }
+        ],
+        "itemRewards": [
+            {
+                "itemCode": "edenvalrpeconomy:coin",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": "edenvalrpeconomy:peatbrick-exchange-110x",
+        "cooldown": 1,
+        "perPlayer": true,
+        "gatherObjectives": [
+            {
+                "validCodes": [
+                    "peatbrick"
+                ],
+                "demand": 110
+            }
+        ],
+        "itemRewards": [
+            {
+                "itemCode": "edenvalrpeconomy:coin",
+                "amount": 1
+            }
+        ]
+    }
+]
