@@ -588,9 +588,11 @@
           "edenvalrpeconomy:flour-exchange-512x",
           "edenvalrpeconomy:packed-pemmican-exchange-30x",
           "edenvalrpeconomy:mushroom-pate-exchange-30x",
+          "edenvalrpeconomy:cheese-cheddar-exchange-30x",
           "edenvalrpeconomy:flour-exchange-256x",
           "edenvalrpeconomy:packed-pemmican-exchange-10x",
-          "edenvalrpeconomy:mushroom-pate-exchange-10x"
+          "edenvalrpeconomy:mushroom-pate-exchange-10x",
+          "edenvalrpeconomy:cheese-cheddar-exchange-10x"
         ],
         "selectrandom": false
       },

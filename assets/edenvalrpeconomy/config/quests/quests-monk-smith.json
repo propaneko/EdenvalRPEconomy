@@ -2,7 +2,7 @@
     {
         "id": "edenvalrpeconomy:ingot-gold-exchange-100x",
         "cooldown": 3,
-        "perPlayer": false,
+        "perPlayer": true,
         "gatherObjectives": [
             {
                 "validCodes": [
@@ -21,7 +21,7 @@
     {
         "id": "edenvalrpeconomy:ingot-silver-exchange-100x",
         "cooldown": 3,
-        "perPlayer": false,
+        "perPlayer": true,
         "gatherObjectives": [
             {
                 "validCodes": [
@@ -40,7 +40,7 @@
     {
         "id": "edenvalrpeconomy:ingot-steel-exchange-100x",
         "cooldown": 3,
-        "perPlayer": false,
+        "perPlayer": true,
         "gatherObjectives": [
             {
                 "validCodes": [
@@ -59,7 +59,7 @@
     {
         "id": "edenvalrpeconomy:ingot-iron-exchange-160x",
         "cooldown": 3,
-        "perPlayer": false,
+        "perPlayer": true,
         "gatherObjectives": [
             {
                 "validCodes": [
@@ -78,7 +78,7 @@
     {
         "id": "edenvalrpeconomy:ingot-bismuthbronze-exchange-100x",
         "cooldown": 3,
-        "perPlayer": false,
+        "perPlayer": true,
         "gatherObjectives": [
             {
                 "validCodes": [
@@ -97,7 +97,7 @@
     {
         "id": "edenvalrpeconomy:ingot-tinbronze-exchange-100x",
         "cooldown": 3,
-        "perPlayer": false,
+        "perPlayer": true,
         "gatherObjectives": [
             {
                 "validCodes": [
@@ -116,7 +116,7 @@
     {
         "id": "edenvalrpeconomy:ingot-copper-exchange-95x",
         "cooldown": 3,
-        "perPlayer": false,
+        "perPlayer": true,
         "gatherObjectives": [
             {
                 "validCodes": [
@@ -135,7 +135,7 @@
     {
         "id": "edenvalrpeconomy:ingot-bismuth-exchange-100x",
         "cooldown": 3,
-        "perPlayer": false,
+        "perPlayer": true,
         "gatherObjectives": [
             {
                 "validCodes": [

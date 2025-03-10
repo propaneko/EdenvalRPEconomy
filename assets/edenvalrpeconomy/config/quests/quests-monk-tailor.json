@@ -2,7 +2,7 @@
     {
         "id": "edenvalrpeconomy:cloth-exchange-16x",
         "cooldown": 0,
-        "perPlayer": false,
+        "perPlayer": true,
         "gatherObjectives": [
             {
                 "validCodes": [
@@ -33,7 +33,7 @@
     {
         "id": "edenvalrpeconomy:cloth-wool-exchange-16x",
         "cooldown": 0,
-        "perPlayer": false,
+        "perPlayer": true,
         "gatherObjectives": [
             {
                 "validCodes": [
@@ -52,7 +52,7 @@
     {
         "id": "edenvalrpeconomy:sewingkit-exchange-8x",
         "cooldown": 0,
-        "perPlayer": false,
+        "perPlayer": true,
         "gatherObjectives": [
             {
                 "validCodes": [
@@ -71,7 +71,7 @@
     {
         "id": "edenvalrpeconomy:leather-sturdy-plain-exchange-30x",
         "cooldown": 3,
-        "perPlayer": false,
+        "perPlayer": true,
         "gatherObjectives": [
             {
                 "validCodes": [

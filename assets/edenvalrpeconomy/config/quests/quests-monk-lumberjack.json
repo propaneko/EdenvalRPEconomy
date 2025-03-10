@@ -2,7 +2,7 @@
     {
         "id": "edenvalrpeconomy:ore-lignite-exchange-288x",
         "cooldown": 2,
-        "perPlayer": false,
+        "perPlayer": true,
         "gatherObjectives": [
             {
                 "validCodes": [
@@ -21,7 +21,7 @@
     {
         "id": "edenvalrpeconomy:ore-bituminouscoal-exchange-192x",
         "cooldown": 2,
-        "perPlayer": false,
+        "perPlayer": true,
         "gatherObjectives": [
             {
                 "validCodes": [
@@ -40,7 +40,7 @@
     {
         "id": "edenvalrpeconomy:charcoal-exchange-320x",
         "cooldown": 2,
-        "perPlayer": false,
+        "perPlayer": true,
         "gatherObjectives": [
             {
                 "validCodes": [
@@ -59,7 +59,7 @@
     {
         "id": "edenvalrpeconomy:peatbrick-exchange-330x",
         "cooldown": 2,
-        "perPlayer": false,
+        "perPlayer": true,
         "gatherObjectives": [
             {
                 "validCodes": [

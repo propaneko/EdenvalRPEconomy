@@ -2,7 +2,7 @@
     {
         "id": "edenvalrpeconomy:gear-rusty-exchange-50x",
         "cooldown": 2,
-        "perPlayer": false,
+        "perPlayer": true,
         "gatherObjectives": [
             {
                 "validCodes": [
@@ -21,7 +21,7 @@
     {
         "id": "edenvalrpeconomy:metal-scraps-exchange-50x",
         "cooldown": 2,
-        "perPlayer": false,
+        "perPlayer": true,
         "gatherObjectives": [
             {
                 "validCodes": [
@@ -40,7 +40,7 @@
     {
         "id": "edenvalrpeconomy:metal-parts-exchange-50x",
         "cooldown": 2,
-        "perPlayer": false,
+        "perPlayer": true,
         "gatherObjectives": [
             {
                 "validCodes": [

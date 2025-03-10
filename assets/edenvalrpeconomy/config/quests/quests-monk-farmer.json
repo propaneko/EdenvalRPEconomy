@@ -2,7 +2,7 @@
     {
         "id": "edenvalrpeconomy:flour-exchange-512x",
         "cooldown": 2,
-        "perPlayer": false,
+        "perPlayer": true,
         "gatherObjectives": [
             {
                 "validCodes": [
@@ -21,7 +21,7 @@
     {
         "id": "edenvalrpeconomy:packed-pemmican-exchange-30x",
         "cooldown": 3,
-        "perPlayer": false,
+        "perPlayer": true,
         "gatherObjectives": [
             {
                 "validCodes": [
@@ -40,7 +40,7 @@
     {
         "id": "edenvalrpeconomy:mushroom-pate-exchange-30x",
         "cooldown": 3,
-        "perPlayer": false,
+        "perPlayer": true,
         "gatherObjectives": [
             {
                 "validCodes": [
@@ -53,6 +53,25 @@
             {
                 "itemCode": "edenvalrpeconomy:coin",
                 "amount": 6
+            }
+        ]
+    },
+    {
+        "id": "edenvalrpeconomy:cheese-cheddar-exchange-30x",
+        "cooldown": 3,
+        "perPlayer": true,
+        "gatherObjectives": [
+            {
+                "validCodes": [
+                    "cheese-cheddar-4slice"
+                ],
+                "demand": 30
+            }
+        ],
+        "itemRewards": [
+            {
+                "itemCode": "edenvalrpeconomy:coin",
+                "amount": 15
             }
         ]
     },
@@ -112,5 +131,24 @@
                 "amount": 1
             }
         ]
-    }
+    },
+    {
+        "id": "edenvalrpeconomy:cheese-cheddar-exchange-10x",
+        "cooldown": 3,
+        "perPlayer": true,
+        "gatherObjectives": [
+            {
+                "validCodes": [
+                    "cheese-cheddar-4slice"
+                ],
+                "demand": 10
+            }
+        ],
+        "itemRewards": [
+            {
+                "itemCode": "edenvalrpeconomy:coin",
+                "amount": 5
+            }
+        ]
+    },
 ]

@@ -97,6 +97,14 @@
   "edenvalrpeconomy:mushroom-pate-exchange-10x-desc": "We still need some more mushroom pates for our journeys, for 10 packs I will give you 1 crown.",
   "edenvalrpeconomy:mushroom-pate-exchange-10x-obj": "{0}/10 mushroom pete",
 
+  "edenvalrpeconomy:cheese-cheddar-exchange-30x-title": "Cheseeeeee... (30x)",
+  "edenvalrpeconomy:cheese-cheddar-exchange-30x-desc": "You know what to do 30 of this round ambriosa and I will give you 15 crowns.",
+  "edenvalrpeconomy:cheese-cheddar-exchange-30x-obj": "{0}/30 cheddar cheese (whole)",
+
+  "edenvalrpeconomy:cheese-cheddar-exchange-10x-title": "A litle bit more cheeseee...? (10x)",
+  "edenvalrpeconomy:cheese-cheddar-exchange-10x-desc": "Just a bit more of my favorite type of food 10 will suffice, will give you 5 crowns.",
+  "edenvalrpeconomy:cheese-cheddar-exchange-10x-obj": "{0}/10 cheddar cheese (whole)",
+
   "edenvalrpeconomy:cloth-exchange-16x-title": "I’m Desperate for Cloth! (16x)",
   "edenvalrpeconomy:cloth-exchange-16x-desc": "We are a bit short on cloth for clothing, I will buy 16 sheets from you for 4 crowns.",
   "edenvalrpeconomy:cloth-exchange-16x-obj": "{0}/16 cloth",

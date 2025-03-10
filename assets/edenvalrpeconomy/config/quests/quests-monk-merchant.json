@@ -2,7 +2,7 @@
     {
         "id": "edenvalrpeconomy:fat-exchange-60x",
         "cooldown": 2,
-        "perPlayer": false,
+        "perPlayer": true,
         "gatherObjectives": [
             {
                 "validCodes": [
@@ -21,7 +21,7 @@
     {
         "id": "edenvalrpeconomy:mapbook-exchange-15x",
         "cooldown": 2,
-        "perPlayer": false,
+        "perPlayer": true,
         "gatherObjectives": [
             {
                 "validCodes": [
