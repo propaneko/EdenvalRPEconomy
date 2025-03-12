@@ -1,143 +1,144 @@
 {
-    "code": "coin",
-    "maxstacksize": 100,
-    "dimensions": {
-        "width": 0.0625,
-        "height": 0.0625,
-        "length": 0.0625
+  "code": "coin",
+  "maxstacksize": 100,
+  "dimensions": {
+    "width": 0.0625,
+    "height": 0.0625,
+    "length": 0.0625
+  },
+  "storageFlags": 5,
+  "creativeinventory": {
+    "general": ["*"],
+    "items": ["*"]
+  },
+  "glowLevelByType": {
+    "coin": 255
+  },
+  "attributes": {
+    "displaycaseable": true,
+    "handbook": {
+      "exclude": true
     },
-    "storageFlags": 5,
-    "creativeinventory": {
-        "general": ["*"],
-        "items": ["*"]
-    },
-    "attributes": {
-        "displaycaseable": true,
-        "handbook": {
-            "exclude": true
-        },
-        "onDisplayTransform": {
-            "translation": {
-                "x": 0,
-                "y": -0.11,
-                "z": 0
-            },
-            "rotation": {
-                "x": 0,
-                "y": 45,
-                "z": 0
-            },
-            "scale": 0.75
-        }
-    },
-    "behaviors": [
-        {
-            "name": "GroundStorable",
-            "properties": {
-                "layout": "Stacking",
-                "placeRemoveSound": "sounds/coindrop",
-                "stackingModel": "block/coinstack-circle-sm",
-                "stackingTextures": {
-                    "m": "game:block/machine/statictranslocator/rustyglow"
-                },
-                "modelItemsToStackSizeRatioByType": {
-                    "*": 21
-                },
-                "stackingCapacityByType": {
-                    "*": 575
-                },
-                "transferQuantity": 1,
-                "bulkTransferQuantity": 25,
-                "collisionBox": {
-                    "x1": 0,
-                    "y1": 0,
-                    "z1": 0,
-                    "x2": 1,
-                    "y2": 0.0434,
-                    "z2": 1
-                },
-                "cbScaleYByLayerByType": {
-                    "*-sm": 0.04,
-                    "*-md": 0.06,
-                    "*-lg": 0.11
-                }
-            }
-        }
-    ],
-    "textures": {
-        "metal": {
-            "base": "game:block/machine/statictranslocator/rustyglow"
-        },
-        "metal_dark": {
-            "base": "game:block/machine/statictranslocator/rustyglow",
-            "overlays": [
-                "game:block/slightlydarker"
-            ]
-        }
-    },
-    "shape": {
-        "base": "item/coin-circle-sm"
-    },
-    "heldRightTpIdleAnimation": "holdinglanternrighthand",
-    "heldLeftTpIdleAnimation": "holdinglanternlefthand",
-    "fpHandTransform": {
-        "translation": {
-            "x": 0.25,
-            "y": -0.1,
-            "z": 0
-        },
-        "rotation": {
-            "x": 19,
-            "y": -129,
-            "z": -17
-        }
-    },
-    "guiTransform": {
-        "translation": {
-            "x": 3,
-            "y": 0,
-            "z": 0
-        },
-        "rotation": {
-            "x": -49,
-            "y": -45,
-            "z": 0
-        },
-        "origin": {
-            "x": 0,
-            "y": 0.8,
-            "z": 0
-        },
-        "scale": 1.76
-    },
-    "tpHandTransform": {
-        "translation": {
-            "x": -2.1,
-            "y": -1.1,
-            "z": -1.4
-        },
-        "rotation": {
-            "x": 8,
-            "y": -158,
-            "z": 12
-        }
-    },
-    "groundTransform": {
-        "translation": {
-            "x": 0,
-            "y": 0,
-            "z": 0
-        },
-        "rotation": {
-            "x": 0,
-            "y": 0,
-            "z": 0
-        },
-        "origin": {
-            "x": 0,
-            "y": 0,
-            "z": 0
-        },
-        "scale": 1.5
+    "onDisplayTransform": {
+      "translation": {
+        "x": 0,
+        "y": -0.11,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0,
+        "y": 45,
+        "z": 0
+      },
+      "scale": 0.75
     }
+  },
+  "behaviors": [
+    {
+      "name": "GroundStorable",
+      "properties": {
+        "layout": "Stacking",
+        "placeRemoveSound": "sounds/coindrop",
+        "stackingModel": "block/coinstack-circle-sm",
+        "stackingTextures": {
+          "m": "game:block/machine/statictranslocator/rustyglow"
+        },
+        "modelItemsToStackSizeRatioByType": {
+          "*": 21
+        },
+        "stackingCapacityByType": {
+          "*": 575
+        },
+        "transferQuantity": 1,
+        "bulkTransferQuantity": 25,
+        "collisionBox": {
+          "x1": 0,
+          "y1": 0,
+          "z1": 0,
+          "x2": 1,
+          "y2": 0.0434,
+          "z2": 1
+        },
+        "cbScaleYByLayerByType": {
+          "*-sm": 0.04,
+          "*-md": 0.06,
+          "*-lg": 0.11
+        }
+      }
+    }
+  ],
+  "textures": {
+    "metal": {
+      "base": "game:block/machine/statictranslocator/rustyglow"
+    },
+    "metal_dark": {
+      "base": "game:block/machine/statictranslocator/rustyglow",
+      "overlays": ["game:block/slightlydarker"]
+    }
+  },
+  "shape": {
+    "base": "item/coin-circle-sm"
+  },
+  "heldRightTpIdleAnimation": "holdinglanternrighthand",
+  "heldLeftTpIdleAnimation": "holdinglanternlefthand",
+  "fpHandTransform": {
+    "translation": {
+      "x": 0.25,
+      "y": -0.1,
+      "z": 0
+    },
+    "rotation": {
+      "x": 19,
+      "y": -129,
+      "z": -17
+    }
+  },
+  "guiTransform": {
+    "translation": {
+      "x": 3,
+      "y": 0,
+      "z": 0
+    },
+    "rotation": {
+      "x": -49,
+      "y": -45,
+      "z": 0
+    },
+    "origin": {
+      "x": 0,
+      "y": 0.8,
+      "z": 0
+    },
+    "scale": 1.76
+  },
+  "tpHandTransform": {
+    "translation": {
+      "x": -2.1,
+      "y": -1.1,
+      "z": -1.4
+    },
+    "rotation": {
+      "x": 8,
+      "y": -158,
+      "z": 12
+    }
+  },
+  "groundTransform": {
+    "translation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "origin": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "scale": 1.5
+  }
 }

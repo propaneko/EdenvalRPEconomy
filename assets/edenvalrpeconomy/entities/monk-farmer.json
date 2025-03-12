@@ -413,14 +413,7 @@
         "showtagonlywhentargeted": true,
         "selectFromRandomNameByType": {
           "monk-farmer": [
-            "Yern",
-            "Gild",
-            "Hans",
-            "Hector",
-            "McCrae",
-            "Yoskolo",
-            "Grit",
-            "Bounder"
+            "Gaiatel"
           ]
         }
       },

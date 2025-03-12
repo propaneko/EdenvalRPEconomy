@@ -431,14 +431,7 @@
         "showtagonlywhentargeted": true,
         "selectFromRandomNameByType": {
           "monk-guard": [
-            "Yern",
-            "Gild",
-            "Hans",
-            "Hector",
-            "McCrae",
-            "Yoskolo",
-            "Grit",
-            "Bounder"
+            "Heimdal"
           ]
         }
       },

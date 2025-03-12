@@ -406,26 +406,8 @@
         "showtagonlywhentargeted": true,
         "selectFromRandomNameByType": {
           "monk-tailor": [
-            "Yern",
-            "Gild",
-            "Hans",
-            "Hector",
-            "McCrae",
-            "Yoskolo",
-            "Grit",
-            "Bounder"
-          ],
-          "monk-tailor-nadiya-female-generic-generic": [
-            "Yvette",
-            "Gretchen",
-            "Hilda",
-            "Sarah",
-            "Molly",
-            "Yadira",
-            "Grace",
-            "Brianna"
-          ],
-          "monk-tailor-nadiya-*": ["{type}"]
+            "Norgnorn"
+          ]
         }
       },
       { "code": "repulseagents" },

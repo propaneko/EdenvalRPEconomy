@@ -1,7 +1,7 @@
 {
     "code": "creature",
     "class": "ItemCreature",
-    "maxstacksize": 64,
+    "maxstacksize": 1,
     "variantgroups": [
         {
             "code": "type",

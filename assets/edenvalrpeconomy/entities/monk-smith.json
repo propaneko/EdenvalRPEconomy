@@ -402,14 +402,7 @@
         "showtagonlywhentargeted": true,
         "selectFromRandomNameByType": {
           "monk-smith": [
-            "Yern",
-            "Gild",
-            "Hans",
-            "Hector",
-            "McCrae",
-            "Yoskolo",
-            "Grit",
-            "Bounder"
+            "Hephestus"
           ]
         }
       },
