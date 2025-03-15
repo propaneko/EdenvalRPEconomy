@@ -1,5 +1,5 @@
 [{
-    "enabled": false,
+    "enabled": true,
     "op": "replace",
     "file": "betterruins:itemtypes/betterruins/cartschematics.json",
     "path": "/attributes/noConsumeOnCrafting",
@@ -9,7 +9,7 @@
     ]
 },
 {
-    "enabled": false,
+    "enabled": true,
     "op": "replace",
     "file": "betterruins:itemtypes/betterruins/cartschematics.json",
     "path": "/maxstacksize",
