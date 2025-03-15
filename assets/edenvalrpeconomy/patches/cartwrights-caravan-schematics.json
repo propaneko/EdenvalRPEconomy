@@ -1,0 +1,30 @@
+[
+  {
+    "op": "replace",
+    "file": "cartwrightscaravan:itemtypes/cartschematics.json",
+    "path": "/attributes/noConsumeOnCrafting",
+    "value": false,
+    "dependsOn": [{ "modid": "cartwrightscaravan" }]
+  },
+  {
+    "op": "replace",
+    "file": "cartwrightscaravan:itemtypes/cartschematics.json",
+    "path": "/maxstacksize",
+    "value": 16,
+    "dependsOn": [{ "modid": "cartwrightscaravan" }]
+  },
+  {
+    "op": "add",
+    "file": "cartwrightscaravan:recipes/grid/schematics.json",
+    "path": "/0/enabled",
+    "value": false,
+    "dependsOn": [{ "modid": "cartwrightscaravan" }]
+  },
+  {
+    "op": "add",
+    "file": "cartwrightscaravan:recipes/grid/schematics.json",
+    "path": "/1/enabled",
+    "value": false,
+    "dependsOn": [{ "modid": "cartwrightscaravan" }]
+  }
+]

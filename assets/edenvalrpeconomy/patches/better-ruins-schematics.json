@@ -1,0 +1,20 @@
+[{
+    "enabled": false,
+    "op": "replace",
+    "file": "betterruins:itemtypes/betterruins/cartschematics.json",
+    "path": "/attributes/noConsumeOnCrafting",
+    "value": false,
+    "dependsOn": [
+        { "modid": "betterruins" }
+    ]
+},
+{
+    "enabled": false,
+    "op": "replace",
+    "file": "betterruins:itemtypes/betterruins/cartschematics.json",
+    "path": "/maxstacksize",
+    "value": 16,
+    "dependsOn": [
+        { "modid": "betterruins" }
+    ]
+}]

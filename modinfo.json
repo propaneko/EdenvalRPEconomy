@@ -7,7 +7,7 @@
         "propaneko"
     ],
     "description": "Edenval RP Economy and Quests",
-    "version": "0.0.3",
+    "version": "0.0.5",
     "dependencies": {
         "game": "*",
         "vsquest": "*",

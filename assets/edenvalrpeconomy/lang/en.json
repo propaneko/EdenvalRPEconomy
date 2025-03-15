@@ -1,5 +1,8 @@
 {
   "edenvalrpeconomy:item-coin": "Crown",
+  "edenvalrpeconomy:item-schematics-crossbow": "Crossbow schematic",
+  "edenvalrpeconomy:itemdesc-schematics-crossbow": "<font color=\"#99c9f9\"><i>You can get this item only from server events and or auction that will be held once in a while.</i></font><br>",
+
 
   "item-creature-monk-smith": "Monastery Smith",
   "item-creature-monk-farmer": "Monastery Farmer",
@@ -146,7 +149,7 @@
   "edenvalrpeconomy:mapbook-exchange-15x-obj": "{0}/15 atlases",
 
   "edenvalrpeconomy:compass-exchange-60x-title": "I need to acquire a lot of compasses! (60x)",
-  "edenvalrpeconomy:compass-exchange-60x-desc": "For the people that are lost easily and can't figure out world sides I need 20 compasses any type. Will give you 3 crown for that.",
+  "edenvalrpeconomy:compass-exchange-60x-desc": "For the people that are lost easily and can't figure out world sides I need 60 compasses any type. Will give you 3 crown for that.",
   "edenvalrpeconomy:compass-exchange-60x-obj": "{0}/60 compasses",
 
   "edenvalrpeconomy:compass-exchange-20x-title": "I need some of them compasses! (20x)",

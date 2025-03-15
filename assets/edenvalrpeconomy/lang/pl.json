@@ -1,5 +1,7 @@
 {
   "edenvalrpeconomy:item-coin": "Korona",
+  "edenvalrpeconomy:item-schematics-crossbow": "Schemat kuszy",
+  "edenvalrpeconomy:itemdesc-schematics-crossbow": "<font color=\"#99c9f9\"><i>Ten przedmiot możesz otrzymać tylko z wydarzeń, bądź z licytacji które będą się odbywać co jakiś czas.</i></font><br>",
 
   "item-creature-monk-smith": "Mnich Kowal",
   "item-creature-monk-farmer": "Mnich Rolnik",
