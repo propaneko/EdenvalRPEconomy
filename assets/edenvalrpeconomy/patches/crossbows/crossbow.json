@@ -5,6 +5,7 @@
     "path": "/0",
     "value": {
         "ingredientPattern": "ANF,LBS,CWK",
+        "requiresTrait": "fletcher",
         "ingredients": {
           "B": {"type": "item", "code": "maltiezcrossbows:bow-steel-heavy", "quantity": 1},
           "S": {"type": "item", "code": "maltiezcrossbows:parts-stirrup-steel", "quantity": 1},
@@ -28,6 +29,7 @@
     "path": "/1",
     "value": {
         "ingredientPattern": "ANF,LB_,CWK",
+        "requiresTrait": "fletcher",
         "ingredients": {
           "B": {"type": "item", "code": "maltiezcrossbows:bow-steel-light", "quantity": 1},
           "L": {"type": "item", "code": "maltiezcrossbows:parts-lock-steel", "quantity": 1},
@@ -50,6 +52,7 @@
     "path": "/2",
     "value":  {
         "ingredientPattern": "_NF,LB_,WWK",
+        "requiresTrait": "fletcher",
         "ingredients": {
           "B": {"type": "item", "code": "maltiezcrossbows:bow-composite-heavy", "quantity": 1},
           "L": {"type": "item", "code": "maltiezcrossbows:parts-latch-iron", "quantity": 1},
@@ -71,6 +74,7 @@
     "path": "/3",
     "value":  {
         "ingredientPattern": "_NF,LB_,CWK",
+        "requiresTrait": "fletcher",
         "ingredients": {
           "B": {"type": "item", "code": "maltiezcrossbows:bow-composite-heavy", "quantity": 1},
           "L": {"type": "item", "code": "maltiezcrossbows:parts-latch-meteoriciron", "quantity": 1},
@@ -92,6 +96,7 @@
     "path": "/4",
     "value":  {
         "ingredientPattern": "ANF,LBS,CWK",
+        "requiresTrait": "fletcher",
         "ingredients": {
           "B": {"type": "item", "code": "maltiezcrossbows:bow-composite-heavy", "quantity": 1},
           "S": {"type": "item", "code": "maltiezcrossbows:parts-stirrup-*bronze", "quantity": 1},
@@ -114,7 +119,8 @@
     "file": "maltiezcrossbows:recipes/grid/crossbow.json",
     "path": "/5",
     "value":  {
-        "ingredientPattern": "ANF,LBS,WWK",
+        "ingredientPattern": "ANF,LBS,CWK",
+        "requiresTrait": "fletcher",
         "ingredients": {
           "B": {"type": "item", "code": "maltiezcrossbows:bow-composite-heavy", "quantity": 1},
           "S": {"type": "item", "code": "maltiezcrossbows:parts-stirrup-*bronze", "quantity": 1},
@@ -138,6 +144,7 @@
     "path": "/6",
     "value":  {
         "ingredientPattern": "ANF,LBS,CWK",
+        "requiresTrait": "fletcher",
         "ingredients": {
           "B": {"type": "item", "code": "maltiezcrossbows:bow-composite-heavy", "quantity": 1},
           "S": {"type": "item", "code": "maltiezcrossbows:parts-stirrup-*bronze", "quantity": 1},
@@ -161,6 +168,7 @@
     "path": "/7",
     "value": {
         "ingredientPattern": "SMP,PFB,C__",
+        "requiresTrait": "fletcher",
         "ingredients": {
           "B": {"type": "item", "code": "game:bow-simple", "quantity": 1},
           "M": {"type": "item", "code": "game:metalnailsandstrips-copper", "quantity": 1},
@@ -181,6 +189,7 @@
     "path": "/8",
     "value":  {
         "ingredientPattern": "KNF,WWS,C__",
+        "requiresTrait": "fletcher",
         "ingredients": {
           "S": {"type": "item", "code": "game:bow-simple", "quantity": 1},
           "N": {"type": "item", "code": "game:bone", "quantity": 1},
@@ -194,5 +203,11 @@
         "output": {"type": "item", "code": "maltiezcrossbows:crossbow-simple-wood"}
       },
     "dependsOn": [{ "modid": "maltiezcrossbows" }]
+  },
+  {
+    "op": "addmerge",
+    "path": "/0/requiresTrait",
+    "value": "fletcher",
+    "file": "maltiezcrossbows:recipes/grid/bow.json"
   }
 ]

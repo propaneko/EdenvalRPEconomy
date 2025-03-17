@@ -1,8 +1,7 @@
 {
   "edenvalrpeconomy:item-coin": "Crown",
   "edenvalrpeconomy:item-schematics-crossbow": "Crossbow schematic",
-  "edenvalrpeconomy:itemdesc-schematics-crossbow": "<font color=\"#99c9f9\"><i>You can get this item only from server events and or auction that will be held once in a while.</i></font><br>",
-
+  "edenvalrpeconomy:itemdesc-schematics-crossbow": "<font color=\"#99c9f9\"><i>You can get this item only from server events and or auction that will be held once in a while. And if other village has it, you can also trade with them.</i></font><br>",
 
   "item-creature-monk-smith": "Monastery Smith",
   "item-creature-monk-farmer": "Monastery Farmer",
