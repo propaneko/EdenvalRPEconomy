@@ -597,10 +597,10 @@
         "code": "questgiver",
         "quests": [
           "edenvalrpeconomy:gear-rusty-inbulk",
-          "edenvalrpeconomy:metal-scraps-inbulk",
-          "edenvalrpeconomy:metal-parts-inbulk",
           "edenvalrpeconomy:gear-rusty-retail",
+          "edenvalrpeconomy:metal-scraps-inbulk",
           "edenvalrpeconomy:metal-scraps-retail",
+          "edenvalrpeconomy:metal-parts-inbulk",
           "edenvalrpeconomy:metal-parts-retail",
           "edenvalrpeconomy:lantern-up-inbulk",
           "edenvalrpeconomy:lantern-up-retail"
