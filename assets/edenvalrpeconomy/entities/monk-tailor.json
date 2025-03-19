@@ -571,14 +571,16 @@
       {
         "code": "questgiver",
         "quests": [
-          "edenvalrpeconomy:cloth-exchange-16x",
-          "edenvalrpeconomy:cloth-wool-exchange-16x",
-          "edenvalrpeconomy:sewingkit-exchange-8x",
-          "edenvalrpeconomy:leather-sturdy-plain-exchange-30x",
-          "edenvalrpeconomy:cloth-exchange-4x",
-          "edenvalrpeconomy:cloth-wool-exchange-4x",
-          "edenvalrpeconomy:sewingkit-exchange-4x",
-          "edenvalrpeconomy:leather-sturdy-plain-exchange-5x"
+"edenvalrpeconomy:cloth-inbulk",
+"edenvalrpeconomy:cloth-wool-inbulk",
+"edenvalrpeconomy:sewingkit-inbulk",
+"edenvalrpeconomy:leather-sturdy-plain-inbulk",
+"edenvalrpeconomy:cloth-retail",
+"edenvalrpeconomy:cloth-wool-retail",
+"edenvalrpeconomy:sewingkit-retail",
+"edenvalrpeconomy:leather-sturdy-plain-retail",
+"edenvalrpeconomy:leather-normal-plain-inbulk",
+"edenvalrpeconomy:leather-normal-plain-retail"
       ],
         "selectrandom": false
       },

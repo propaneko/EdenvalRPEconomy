@@ -1,6 +1,6 @@
 [ 
     {
-        "id": "edenvalrpeconomy:ingot-gold-exchange-100x",
+        "id": "edenvalrpeconomy:ingot-gold-inbulk",
         "cooldown": 3,
         "perPlayer": true,
         "gatherObjectives": [
@@ -19,7 +19,7 @@
         ]
     },
     {
-        "id": "edenvalrpeconomy:ingot-silver-exchange-100x",
+        "id": "edenvalrpeconomy:ingot-silver-inbulk",
         "cooldown": 3,
         "perPlayer": true,
         "gatherObjectives": [
@@ -27,18 +27,18 @@
                 "validCodes": [
                     "ingot-silver"
                 ],
-                "demand": 100
+                "demand": 120
             }
         ],
         "itemRewards": [
             {
                 "itemCode": "edenvalrpeconomy:coin",
-                "amount": 25
+                "amount": 40
             }
         ]
     },
     {
-        "id": "edenvalrpeconomy:ingot-steel-exchange-100x",
+        "id": "edenvalrpeconomy:ingot-steel-inbulk",
         "cooldown": 3,
         "perPlayer": true,
         "gatherObjectives": [
@@ -46,18 +46,18 @@
                 "validCodes": [
                     "ingot-steel"
                 ],
-                "demand": 100
+                "demand": 48
             }
         ],
         "itemRewards": [
             {
                 "itemCode": "edenvalrpeconomy:coin",
-                "amount": 25
+                "amount": 24
             }
         ]
     },
     {
-        "id": "edenvalrpeconomy:ingot-iron-exchange-160x",
+        "id": "edenvalrpeconomy:ingot-iron-inbulk",
         "cooldown": 3,
         "perPlayer": true,
         "gatherObjectives": [
@@ -76,7 +76,7 @@
         ]
     },
     {
-        "id": "edenvalrpeconomy:ingot-bismuthbronze-exchange-100x",
+        "id": "edenvalrpeconomy:ingot-bismuthbronze-inbulk",
         "cooldown": 3,
         "perPlayer": true,
         "gatherObjectives": [
@@ -84,18 +84,18 @@
                 "validCodes": [
                     "ingot-bismuthbronze"
                 ],
-                "demand": 100
+                "demand": 160
             }
         ],
         "itemRewards": [
             {
                 "itemCode": "edenvalrpeconomy:coin",
-                "amount": 5
+                "amount": 10
             }
         ]
     },
     {
-        "id": "edenvalrpeconomy:ingot-tinbronze-exchange-100x",
+        "id": "edenvalrpeconomy:ingot-tinbronze-inbulk",
         "cooldown": 3,
         "perPlayer": true,
         "gatherObjectives": [
@@ -103,18 +103,18 @@
                 "validCodes": [
                     "ingot-tinbronze"
                 ],
-                "demand": 100
+                "demand": 160
             }
         ],
         "itemRewards": [
             {
                 "itemCode": "edenvalrpeconomy:coin",
-                "amount": 5
+                "amount": 10
             }
         ]
     },
     {
-        "id": "edenvalrpeconomy:ingot-copper-exchange-95x",
+        "id": "edenvalrpeconomy:ingot-copper-inbulk",
         "cooldown": 3,
         "perPlayer": true,
         "gatherObjectives": [
@@ -122,18 +122,18 @@
                 "validCodes": [
                     "ingot-copper"
                 ],
-                "demand": 95
+                "demand": 160
             }
         ],
         "itemRewards": [
             {
                 "itemCode": "edenvalrpeconomy:coin",
-                "amount": 5
+                "amount": 8
             }
         ]
     },
     {
-        "id": "edenvalrpeconomy:ingot-bismuth-exchange-100x",
+        "id": "edenvalrpeconomy:ingot-bismuth-inbulk",
         "cooldown": 3,
         "perPlayer": true,
         "gatherObjectives": [
@@ -141,18 +141,18 @@
                 "validCodes": [
                     "ingot-bismuth"
                 ],
-                "demand": 100
+                "demand": 80
             }
         ],
         "itemRewards": [
             {
                 "itemCode": "edenvalrpeconomy:coin",
-                "amount": 5
+                "amount": 10
             }
         ]
     },
     {
-        "id": "edenvalrpeconomy:ingot-gold-exchange-10x",
+        "id": "edenvalrpeconomy:ingot-gold-retail",
         "cooldown": 1,
         "perPlayer": true,
         "gatherObjectives": [
@@ -171,7 +171,7 @@
         ]
     },
     {
-        "id": "edenvalrpeconomy:ingot-silver-exchange-20x",
+        "id": "edenvalrpeconomy:ingot-silver-retail",
         "cooldown": 1,
         "perPlayer": true,
         "gatherObjectives": [
@@ -179,18 +179,18 @@
                 "validCodes": [
                     "ingot-silver"
                 ],
-                "demand": 20
+                "demand": 30
             }
         ],
         "itemRewards": [
             {
                 "itemCode": "edenvalrpeconomy:coin",
-                "amount": 5
+                "amount": 10
             }
         ]
     },
     {
-        "id": "edenvalrpeconomy:ingot-steel-exchange-20x",
+        "id": "edenvalrpeconomy:ingot-steel-retail",
         "cooldown": 1,
         "perPlayer": true,
         "gatherObjectives": [
@@ -198,18 +198,18 @@
                 "validCodes": [
                     "ingot-steel"
                 ],
-                "demand": 20
+                "demand": 16
             }
         ],
         "itemRewards": [
             {
                 "itemCode": "edenvalrpeconomy:coin",
-                "amount": 5
+                "amount": 8
             }
         ]
     },
     {
-        "id": "edenvalrpeconomy:ingot-iron-exchange-16x",
+        "id": "edenvalrpeconomy:ingot-iron-retail",
         "cooldown": 1,
         "perPlayer": true,
         "gatherObjectives": [
@@ -217,18 +217,18 @@
                 "validCodes": [
                     "ingot-iron"
                 ],
-                "demand": 16
+                "demand": 64
             }
         ],
         "itemRewards": [
             {
                 "itemCode": "edenvalrpeconomy:coin",
-                "amount": 1
+                "amount": 4
             }
         ]
     },
     {
-        "id": "edenvalrpeconomy:ingot-bismuthbronze-exchange-20x",
+        "id": "edenvalrpeconomy:ingot-bismuthbronze-retail",
         "cooldown": 1,
         "perPlayer": true,
         "gatherObjectives": [
@@ -236,18 +236,18 @@
                 "validCodes": [
                     "ingot-bismuthbronze"
                 ],
-                "demand": 20
+                "demand": 64
             }
         ],
         "itemRewards": [
             {
                 "itemCode": "edenvalrpeconomy:coin",
-                "amount": 1
+                "amount": 4
             }
         ]
     },
     {
-        "id": "edenvalrpeconomy:ingot-tinbronze-exchange-20x",
+        "id": "edenvalrpeconomy:ingot-tinbronze-retail",
         "cooldown": 1,
         "perPlayer": true,
         "gatherObjectives": [
@@ -255,18 +255,18 @@
                 "validCodes": [
                     "ingot-tinbronze"
                 ],
-                "demand": 20
+                "demand": 64
             }
         ],
         "itemRewards": [
             {
                 "itemCode": "edenvalrpeconomy:coin",
-                "amount": 1
+                "amount": 4
             }
         ]
     },
     {
-        "id": "edenvalrpeconomy:ingot-copper-exchange-19x",
+        "id": "edenvalrpeconomy:ingot-copper-retail",
         "cooldown": 1,
         "perPlayer": true,
         "gatherObjectives": [
@@ -274,18 +274,18 @@
                 "validCodes": [
                     "ingot-copper"
                 ],
-                "demand": 19
+                "demand": 40
             }
         ],
         "itemRewards": [
             {
                 "itemCode": "edenvalrpeconomy:coin",
-                "amount": 1
+                "amount": 2
             }
         ]
     },
     {
-        "id": "edenvalrpeconomy:ingot-bismuth-exchange-20x",
+        "id": "edenvalrpeconomy:ingot-bismuth-retail",
         "cooldown": 1,
         "perPlayer": true,
         "gatherObjectives": [
@@ -293,13 +293,13 @@
                 "validCodes": [
                     "ingot-bismuth"
                 ],
-                "demand": 20
+                "demand": 32
             }
         ],
         "itemRewards": [
             {
                 "itemCode": "edenvalrpeconomy:coin",
-                "amount": 1
+                "amount": 4
             }
         ]
     }

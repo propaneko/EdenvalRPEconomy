@@ -1,6 +1,6 @@
 [ 
     {
-        "id": "edenvalrpeconomy:gear-rusty-exchange-50x",
+        "id": "edenvalrpeconomy:gear-rusty-inbulk",
         "cooldown": 2,
         "perPlayer": true,
         "gatherObjectives": [
@@ -8,18 +8,18 @@
                 "validCodes": [
                     "gear-rusty"
                 ],
-                "demand": 50
+                "demand": 80
             }
         ],
         "itemRewards": [
             {
                 "itemCode": "edenvalrpeconomy:coin",
-                "amount": 5
+                "amount": 8
             }
         ]
     },
     {
-        "id": "edenvalrpeconomy:metal-scraps-exchange-50x",
+        "id": "edenvalrpeconomy:metal-scraps-inbulk",
         "cooldown": 2,
         "perPlayer": true,
         "gatherObjectives": [
@@ -27,18 +27,18 @@
                 "validCodes": [
                     "metal-scraps"
                 ],
-                "demand": 50
+                "demand": 80
             }
         ],
         "itemRewards": [
             {
                 "itemCode": "edenvalrpeconomy:coin",
-                "amount": 5
+                "amount": 8
             }
         ]
     },
     {
-        "id": "edenvalrpeconomy:metal-parts-exchange-50x",
+        "id": "edenvalrpeconomy:metal-parts-inbulk",
         "cooldown": 2,
         "perPlayer": true,
         "gatherObjectives": [
@@ -46,19 +46,19 @@
                 "validCodes": [
                     "metal-parts"
                 ],
-                "demand": 50
+                "demand": 80
             }
         ],
         "itemRewards": [
             {
                 "itemCode": "edenvalrpeconomy:coin",
-                "amount": 5
+                "amount": 8
             }
         ]
     }
     ,
     {
-        "id": "edenvalrpeconomy:gear-rusty-exchange-10x",
+        "id": "edenvalrpeconomy:gear-rusty-retail",
         "cooldown": 1,
         "perPlayer": true,
         "gatherObjectives": [
@@ -66,18 +66,18 @@
                 "validCodes": [
                     "gear-rusty"
                 ],
-                "demand": 10
+                "demand": 20
             }
         ],
         "itemRewards": [
             {
                 "itemCode": "edenvalrpeconomy:coin",
-                "amount": 1
+                "amount": 2
             }
         ]
     },
     {
-        "id": "edenvalrpeconomy:metal-scraps-exchange-10x",
+        "id": "edenvalrpeconomy:metal-scraps-retail",
         "cooldown": 1,
         "perPlayer": true,
         "gatherObjectives": [
@@ -85,18 +85,18 @@
                 "validCodes": [
                     "metal-scraps"
                 ],
-                "demand": 10
+                "demand": 20
             }
         ],
         "itemRewards": [
             {
                 "itemCode": "edenvalrpeconomy:coin",
-                "amount": 1
+                "amount": 2
             }
         ]
     },
     {
-        "id": "edenvalrpeconomy:metal-parts-exchange-10x",
+        "id": "edenvalrpeconomy:metal-parts-retail",
         "cooldown": 1,
         "perPlayer": true,
         "gatherObjectives": [
@@ -104,13 +104,52 @@
                 "validCodes": [
                     "metal-parts"
                 ],
-                "demand": 10
+                "demand": 20
             }
         ],
         "itemRewards": [
             {
                 "itemCode": "edenvalrpeconomy:coin",
-                "amount": 1
+                "amount": 2
+            }
+        ]
+    }
+    ,
+    {
+        "id": "edenvalrpeconomy:lantern-up-inbulk",
+        "cooldown": 1,
+        "perPlayer": true,
+        "gatherObjectives": [
+            {
+                "validCodes": [
+                    "lantern-up"
+                ],
+                "demand": 64
+            }
+        ],
+        "itemRewards": [
+            {
+                "itemCode": "edenvalrpeconomy:coin",
+                "amount": 16
+            }
+        ]
+    },
+    {
+        "id": "edenvalrpeconomy:lantern-up-retail",
+        "cooldown": 1,
+        "perPlayer": true,
+        "gatherObjectives": [
+            {
+                "validCodes": [
+                    "lantern-up"
+                ],
+                "demand": 16
+            }
+        ],
+        "itemRewards": [
+            {
+                "itemCode": "edenvalrpeconomy:coin",
+                "amount": 4
             }
         ]
     }

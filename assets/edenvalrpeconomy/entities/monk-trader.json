@@ -572,12 +572,16 @@
       {
         "code": "questgiver",
         "quests": [
-          "edenvalrpeconomy:fat-exchange-60x",
-          "edenvalrpeconomy:fat-exchange-20x",
-          "edenvalrpeconomy:mapbook-exchange-15x",
-          "edenvalrpeconomy:mapbook-exchange-5x",
-          "edenvalrpeconomy:compass-exchange-20x",
-          "edenvalrpeconomy:compass-exchange-60x"
+"edenvalrpeconomy:fat-inbulk",
+"edenvalrpeconomy:mapbook-inbulk",
+"edenvalrpeconomy:fat-retail",
+"edenvalrpeconomy:mapbook-retail",
+"edenvalrpeconomy:compass-inbulk",
+"edenvalrpeconomy:compass-retail",
+"edenvalrpeconomy:candle-inbulk",
+"edenvalrpeconomy:candle-retail",
+"edenvalrpeconomy:backpack-normal-inbulk",
+"edenvalrpeconomy:backpack-normal-retail"
         ],
         "selectrandom": false
       },

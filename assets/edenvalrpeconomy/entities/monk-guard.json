@@ -596,12 +596,14 @@
       {
         "code": "questgiver",
         "quests": [
-          "edenvalrpeconomy:gear-rusty-exchange-50x",
-          "edenvalrpeconomy:metal-scraps-exchange-50x",
-          "edenvalrpeconomy:metal-parts-exchange-50x",
-          "edenvalrpeconomy:gear-rusty-exchange-10x",
-          "edenvalrpeconomy:metal-scraps-exchange-10x",
-          "edenvalrpeconomy:metal-parts-exchange-10x"
+          "edenvalrpeconomy:gear-rusty-inbulk",
+          "edenvalrpeconomy:metal-scraps-inbulk",
+          "edenvalrpeconomy:metal-parts-inbulk",
+          "edenvalrpeconomy:gear-rusty-retail",
+          "edenvalrpeconomy:metal-scraps-retail",
+          "edenvalrpeconomy:metal-parts-retail",
+          "edenvalrpeconomy:lantern-up-inbulk",
+          "edenvalrpeconomy:lantern-up-retail"
       ],
         "selectrandom": false
       },

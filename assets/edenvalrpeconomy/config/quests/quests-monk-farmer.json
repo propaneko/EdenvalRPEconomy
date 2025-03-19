@@ -1,6 +1,6 @@
 [ 
     {
-        "id": "edenvalrpeconomy:flour-exchange-512x",
+        "id": "edenvalrpeconomy:flour-inbulk",
         "cooldown": 2,
         "perPlayer": true,
         "gatherObjectives": [
@@ -8,18 +8,37 @@
                 "validCodes": [
                     "flour-*"
                 ],
+                "demand": 1536
+            }
+        ],
+        "itemRewards": [
+            {
+                "itemCode": "edenvalrpeconomy:coin",
+                "amount": 12
+            }
+        ]
+    },
+    {
+        "id": "edenvalrpeconomy:flour-retail",
+        "cooldown": 1,
+        "perPlayer": true,
+        "gatherObjectives": [
+            {
+                "validCodes": [
+                    "flour-rye"
+                ],
                 "demand": 512
             }
         ],
         "itemRewards": [
             {
                 "itemCode": "edenvalrpeconomy:coin",
-                "amount": 2
+                "amount": 4
             }
         ]
     },
     {
-        "id": "edenvalrpeconomy:packed-pemmican-exchange-30x",
+        "id": "edenvalrpeconomy:packed-pemmican-inbulk",
         "cooldown": 3,
         "perPlayer": true,
         "gatherObjectives": [
@@ -38,7 +57,7 @@
         ]
     },
     {
-        "id": "edenvalrpeconomy:mushroom-pate-exchange-30x",
+        "id": "edenvalrpeconomy:mushroom-pate-inbulk",
         "cooldown": 3,
         "perPlayer": true,
         "gatherObjectives": [
@@ -57,7 +76,7 @@
         ]
     },
     {
-        "id": "edenvalrpeconomy:cheese-cheddar-exchange-30x",
+        "id": "edenvalrpeconomy:cheese-cheddar-inbulk",
         "cooldown": 3,
         "perPlayer": true,
         "gatherObjectives": [
@@ -76,26 +95,7 @@
         ]
     },
     {
-        "id": "edenvalrpeconomy:flour-exchange-256x",
-        "cooldown": 1,
-        "perPlayer": true,
-        "gatherObjectives": [
-            {
-                "validCodes": [
-                    "flour-rye"
-                ],
-                "demand": 256
-            }
-        ],
-        "itemRewards": [
-            {
-                "itemCode": "edenvalrpeconomy:coin",
-                "amount": 1
-            }
-        ]
-    },
-    {
-        "id": "edenvalrpeconomy:packed-pemmican-exchange-10x",
+        "id": "edenvalrpeconomy:packed-pemmican-retail",
         "cooldown": 1,
         "perPlayer": true,
         "gatherObjectives": [
@@ -114,7 +114,7 @@
         ]
     },
     {
-        "id": "edenvalrpeconomy:mushroom-pate-exchange-10x",
+        "id": "edenvalrpeconomy:mushroom-pate-retail",
         "cooldown": 1,
         "perPlayer": true,
         "gatherObjectives": [
@@ -133,7 +133,7 @@
         ]
     },
     {
-        "id": "edenvalrpeconomy:cheese-cheddar-exchange-10x",
+        "id": "edenvalrpeconomy:cheese-cheddar-retail",
         "cooldown": 3,
         "perPlayer": true,
         "gatherObjectives": [
@@ -151,4 +151,348 @@
             }
         ]
     },
+    {
+        "id": "edenvalrpeconomy:sausage-bloodsasuage-cooked-inbulk",
+        "cooldown": 2,
+        "perPlayer": true,
+        "gatherObjectives": [
+            {
+                "validCodes": [
+                    "sausage-bloodsasuage-cooked"
+                ],
+                "demand": 64
+            }
+        ],
+        "itemRewards": [
+            {
+                "itemCode": "edenvalrpeconomy:coin",
+                "amount": 8
+            }
+        ]
+    },
+    {
+        "id": "edenvalrpeconomy:sausage-bloodsasuage-cooked-retail",
+        "cooldown": 1,
+        "perPlayer": true,
+        "gatherObjectives": [
+            {
+                "validCodes": [
+                    "sausage-bloodsasuage-cooked"
+                ],
+                "demand": 32
+            }
+        ],
+        "itemRewards": [
+            {
+                "itemCode": "edenvalrpeconomy:coin",
+                "amount": 4
+            }
+        ]
+    }
+    ,
+    {
+        "id": "edenvalrpeconomy:redmeat-cured-inbulk",
+        "cooldown": 2,
+        "perPlayer": true,
+        "gatherObjectives": [
+            {
+                "validCodes": [
+                    "redmeat-cured"
+                ],
+                "demand": 200
+            }
+        ],
+        "itemRewards": [
+            {
+                "itemCode": "edenvalrpeconomy:coin",
+                "amount": 20
+            }
+        ]
+    },
+    {
+        "id": "edenvalrpeconomy:redmeat-cured-retail",
+        "cooldown": 1,
+        "perPlayer": true,
+        "gatherObjectives": [
+            {
+                "validCodes": [
+                    "redmeat-cured"
+                ],
+                "demand": 40
+            }
+        ],
+        "itemRewards": [
+            {
+                "itemCode": "edenvalrpeconomy:coin",
+                "amount": 4
+            }
+        ]
+    },
+    {
+        "id": "edenvalrpeconomy:poultry-cured-inbulk",
+        "cooldown": 2,
+        "perPlayer": true,
+        "gatherObjectives": [
+            {
+                "validCodes": [
+                    "poultry-cured"
+                ],
+                "demand": 192
+            }
+        ],
+        "itemRewards": [
+            {
+                "itemCode": "edenvalrpeconomy:coin",
+                "amount": 24
+            }
+        ]
+    },
+    {
+        "id": "edenvalrpeconomy:poultry-cured-retail",
+        "cooldown": 1,
+        "perPlayer": true,
+        "gatherObjectives": [
+            {
+                "validCodes": [
+                    "poultry-cured"
+                ],
+                "demand": 64
+            }
+        ],
+        "itemRewards": [
+            {
+                "itemCode": "edenvalrpeconomy:coin",
+                "amount": 8
+            }
+        ]
+    },
+    {
+        "id": "edenvalrpeconomy:bushmeat-cured-inbulk",
+        "cooldown": 2,
+        "perPlayer": true,
+        "gatherObjectives": [
+            {
+                "validCodes": [
+                    "bushmeat-cured"
+                ],
+                "demand": 144
+            }
+        ],
+        "itemRewards": [
+            {
+                "itemCode": "edenvalrpeconomy:coin",
+                "amount": 24
+            }
+        ]
+    },
+    {
+        "id": "edenvalrpeconomy:bushmeat-cured-retail",
+        "cooldown": 1,
+        "perPlayer": true,
+        "gatherObjectives": [
+            {
+                "validCodes": [
+                    "bushmeat-cured"
+                ],
+                "demand": 48
+            }
+        ],
+        "itemRewards": [
+            {
+                "itemCode": "edenvalrpeconomy:coin",
+                "amount": 8
+            }
+        ]
+    },
+    {
+        "id": "edenvalrpeconomy:sausage-blackpudding-cooked-inbulk",
+        "cooldown": 2,
+        "perPlayer": true,
+        "gatherObjectives": [
+            {
+                "validCodes": [
+                    "sausage-blackpudding-cooked"
+                ],
+                "demand": 56
+            }
+        ],
+        "itemRewards": [
+            {
+                "itemCode": "edenvalrpeconomy:coin",
+                "amount": 8
+            }
+        ]
+    },
+    {
+        "id": "edenvalrpeconomy:sausage-blackpudding-cooked-retail",
+        "cooldown": 1,
+        "perPlayer": true,
+        "gatherObjectives": [
+            {
+                "validCodes": [
+                    "sausage-blackpudding-cooked"
+                ],
+                "demand": 28
+            }
+        ],
+        "itemRewards": [
+            {
+                "itemCode": "edenvalrpeconomy:coin",
+                "amount": 4
+            }
+        ]
+    },
+    {
+        "id": "edenvalrpeconomy:sausage-dried-inbulk",
+        "cooldown": 2,
+        "perPlayer": true,
+        "gatherObjectives": [
+            {
+                "validCodes": [
+                    "sausag*-*-dried"
+                ],
+                "demand": 96
+            }
+        ],
+        "itemRewards": [
+            {
+                "itemCode": "edenvalrpeconomy:coin",
+                "amount": 12
+            }
+        ]
+    },
+    {
+        "id": "edenvalrpeconomy:sausage-dried-retail",
+        "cooldown": 1,
+        "perPlayer": true,
+        "gatherObjectives": [
+            {
+                "validCodes": [
+                    "sausag*-*-dried"
+                ],
+                "demand": 32
+            }
+        ],
+        "itemRewards": [
+            {
+                "itemCode": "edenvalrpeconomy:coin",
+                "amount": 4
+            }
+        ]
+    },
+    {
+        "id": "edenvalrpeconomy:sausage-vintage-inbulk",
+        "cooldown": 2,
+        "perPlayer": true,
+        "gatherObjectives": [
+            {
+                "validCodes": [
+                    "sausage*-*-driedcooked"
+                ],
+                "demand": 240
+            }
+        ],
+        "itemRewards": [
+            {
+                "itemCode": "edenvalrpeconomy:coin",
+                "amount": 40
+            }
+        ]
+    },
+    {
+        "id": "edenvalrpeconomy:sausage-vintage-retail",
+        "cooldown": 1,
+        "perPlayer": true,
+        "gatherObjectives": [
+            {
+                "validCodes": [
+                    "sausage*-*-driedcooked"
+                ],
+                "demand": 60
+            }
+        ],
+        "itemRewards": [
+            {
+                "itemCode": "edenvalrpeconomy:coin",
+                "amount": 10
+            }
+        ]
+    },
+    {
+        "id": "edenvalrpeconomy:sausage-vintage-inbulk",
+        "cooldown": 2,
+        "perPlayer": true,
+        "gatherObjectives": [
+            {
+                "validCodes": [
+                    "sausage*-*-driedcooked"
+                ],
+                "demand": 240
+            }
+        ],
+        "itemRewards": [
+            {
+                "itemCode": "edenvalrpeconomy:coin",
+                "amount": 40
+            }
+        ]
+    },
+    {
+        "id": "edenvalrpeconomy:sausage-vintage-retail",
+        "cooldown": 1,
+        "perPlayer": true,
+        "gatherObjectives": [
+            {
+                "validCodes": [
+                    "sausage*-*-driedcooked"
+                ],
+                "demand": 60
+            }
+        ],
+        "itemRewards": [
+            {
+                "itemCode": "edenvalrpeconomy:coin",
+                "amount": 10
+            }
+        ]
+    }
+    ,
+    {
+        "id": "edenvalrpeconomy:sausage-cheese-inbulk",
+        "cooldown": 2,
+        "perPlayer": true,
+        "gatherObjectives": [
+            {
+                "validCodes": [
+                    "sausage-*cheese-cured"
+                ],
+                "demand": 32
+            }
+        ],
+        "itemRewards": [
+            {
+                "itemCode": "edenvalrpeconomy:coin",
+                "amount": 32
+            }
+        ]
+    },
+    {
+        "id": "edenvalrpeconomy:sausage-cheese-retail",
+        "cooldown": 1,
+        "perPlayer": true,
+        "gatherObjectives": [
+            {
+                "validCodes": [
+                    "sausage-*cheese-cured"
+                ],
+                "demand": 8
+            }
+        ],
+        "itemRewards": [
+            {
+                "itemCode": "edenvalrpeconomy:coin",
+                "amount": 8
+            }
+        ]
+    }
 ]

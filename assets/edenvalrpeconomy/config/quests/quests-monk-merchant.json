@@ -1,6 +1,6 @@
 [ 
     {
-        "id": "edenvalrpeconomy:fat-exchange-60x",
+        "id": "edenvalrpeconomy:fat-inbulk",
         "cooldown": 2,
         "perPlayer": true,
         "gatherObjectives": [
@@ -8,19 +8,57 @@
                 "validCodes": [
                     "fat"
                 ],
-                "demand": 60
+                "demand": 400
             }
         ],
         "itemRewards": [
             {
                 "itemCode": "edenvalrpeconomy:coin",
-                "amount": 3
+                "amount": 20
             }
         ]
     },
     {
-        "id": "edenvalrpeconomy:mapbook-exchange-15x",
+        "id": "edenvalrpeconomy:mapbook-inbulk",
         "cooldown": 2,
+        "perPlayer": true,
+        "gatherObjectives": [
+            {
+                "validCodes": [
+                    "mapbook"
+                ],
+                "demand": 45
+            }
+        ],
+        "itemRewards": [
+            {
+                "itemCode": "edenvalrpeconomy:coin",
+                "amount": 9
+            }
+        ]
+    },
+    {
+        "id": "edenvalrpeconomy:fat-retail",
+        "cooldown": 1,
+        "perPlayer": true,
+        "gatherObjectives": [
+            {
+                "validCodes": [
+                    "fat"
+                ],
+                "demand": 120
+            }
+        ],
+        "itemRewards": [
+            {
+                "itemCode": "edenvalrpeconomy:coin",
+                "amount": 6
+            }
+        ]
+    },
+    {
+        "id": "edenvalrpeconomy:mapbook-retail",
+        "cooldown": 1,
         "perPlayer": true,
         "gatherObjectives": [
             {
@@ -38,45 +76,7 @@
         ]
     },
     {
-        "id": "edenvalrpeconomy:fat-exchange-20x",
-        "cooldown": 1,
-        "perPlayer": true,
-        "gatherObjectives": [
-            {
-                "validCodes": [
-                    "fat"
-                ],
-                "demand": 20
-            }
-        ],
-        "itemRewards": [
-            {
-                "itemCode": "edenvalrpeconomy:coin",
-                "amount": 1
-            }
-        ]
-    },
-    {
-        "id": "edenvalrpeconomy:mapbook-exchange-5x",
-        "cooldown": 1,
-        "perPlayer": true,
-        "gatherObjectives": [
-            {
-                "validCodes": [
-                    "mapbook"
-                ],
-                "demand": 5
-            }
-        ],
-        "itemRewards": [
-            {
-                "itemCode": "edenvalrpeconomy:coin",
-                "amount": 1
-            }
-        ]
-    },
-    {
-        "id": "edenvalrpeconomy:compass-exchange-60x",
+        "id": "edenvalrpeconomy:compass-inbulk",
         "cooldown": 1,
         "perPlayer": true,
         "gatherObjectives": [
@@ -95,7 +95,7 @@
         ]
     },
     {
-        "id": "edenvalrpeconomy:compass-exchange-20x",
+        "id": "edenvalrpeconomy:compass-retail",
         "cooldown": 1,
         "perPlayer": true,
         "gatherObjectives": [
@@ -110,6 +110,82 @@
             {
                 "itemCode": "edenvalrpeconomy:coin",
                 "amount": 1
+            }
+        ]
+    },
+    {
+        "id": "edenvalrpeconomy:candle-inbulk",
+        "cooldown": 1,
+        "perPlayer": true,
+        "gatherObjectives": [
+            {
+                "validCodes": [
+                    "candle"
+                ],
+                "demand": 160
+            }
+        ],
+        "itemRewards": [
+            {
+                "itemCode": "edenvalrpeconomy:coin",
+                "amount": 20
+            }
+        ]
+    },
+    {
+        "id": "edenvalrpeconomy:candle-retail",
+        "cooldown": 1,
+        "perPlayer": true,
+        "gatherObjectives": [
+            {
+                "validCodes": [
+                    "candle"
+                ],
+                "demand": 32
+            }
+        ],
+        "itemRewards": [
+            {
+                "itemCode": "edenvalrpeconomy:coin",
+                "amount": 4
+            }
+        ]
+    },
+    {
+        "id": "edenvalrpeconomy:backpack-normal-inbulk",
+        "cooldown": 1,
+        "perPlayer": true,
+        "gatherObjectives": [
+            {
+                "validCodes": [
+                    "backpack-normal"
+                ],
+                "demand": 14
+            }
+        ],
+        "itemRewards": [
+            {
+                "itemCode": "edenvalrpeconomy:coin",
+                "amount": 4
+            }
+        ]
+    },
+    {
+        "id": "edenvalrpeconomy:backpack-normal-retail",
+        "cooldown": 1,
+        "perPlayer": true,
+        "gatherObjectives": [
+            {
+                "validCodes": [
+                    "backpack-normal"
+                ],
+                "demand": 4
+            }
+        ],
+        "itemRewards": [
+            {
+                "itemCode": "edenvalrpeconomy:coin",
+                "amount": 4
             }
         ]
     }

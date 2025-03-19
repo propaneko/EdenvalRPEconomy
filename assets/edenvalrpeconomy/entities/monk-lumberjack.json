@@ -572,14 +572,14 @@
       {
         "code": "questgiver",
         "quests": [
-          "edenvalrpeconomy:ore-lignite-exchange-288x",
-          "edenvalrpeconomy:ore-bituminouscoal-exchange-192x",
-          "edenvalrpeconomy:charcoal-exchange-320x",
-          "edenvalrpeconomy:peatbrick-exchange-330x",
-          "edenvalrpeconomy:ore-lignite-exchange-48x",
-          "edenvalrpeconomy:ore-bituminouscoal-exchange-32x",
-          "edenvalrpeconomy:charcoal-exchange-64x",
-          "edenvalrpeconomy:peatbrick-exchange-110x"
+"edenvalrpeconomy:ore-lignite-inbulk",
+"edenvalrpeconomy:ore-bituminouscoal-inbulk",
+"edenvalrpeconomy:charcoal-inbulk",
+"edenvalrpeconomy:peatbrick-inbulk",
+"edenvalrpeconomy:ore-lignite-retail",
+"edenvalrpeconomy:ore-bituminouscoal-retail",
+"edenvalrpeconomy:charcoal-retail",
+"edenvalrpeconomy:peatbrick-retail"
       ],
         "selectrandom": false
       },
