@@ -109,14 +109,6 @@
 "edenvalrpeconomy:cheese-cheddar-retail-desc": "Cheddar cheese is the foundation of our kitchen, I will buy 10 portions for 5 crowns.",
 "edenvalrpeconomy:cheese-cheddar-retail-obj": "{0}/10",
 
-"edenvalrpeconomy:sausage-bloodsasuage-cooked-inbulk-title": "I'm Running Out of Blood Sausage! (64x)",
-"edenvalrpeconomy:sausage-bloodsasuage-cooked-inbulk-desc": "We lack blood sausage in our supplies, I will buy 64 pieces for 8 crowns.",
-"edenvalrpeconomy:sausage-bloodsasuage-cooked-inbulk-obj": "{0}/64",
-
-"edenvalrpeconomy:sausage-bloodsasuage-cooked-retail-title": "I'm Short on Blood Sausage! (32x)",
-"edenvalrpeconomy:sausage-bloodsasuage-cooked-retail-desc": "Although we have supplies, I will buy 32 pieces of blood sausage for 4 crowns.",
-"edenvalrpeconomy:sausage-bloodsasuage-cooked-retail-obj": "{0}/32",
-
 "edenvalrpeconomy:redmeat-cured-inbulk-title": "I'm Out of Cured Red Meat! (200x)",
 "edenvalrpeconomy:redmeat-cured-inbulk-desc": "Our cured red meat supplies are running low, I will buy 200 portions for 20 crowns.",
 "edenvalrpeconomy:redmeat-cured-inbulk-obj": "{0}/200",
@@ -141,6 +133,14 @@
 "edenvalrpeconomy:bushmeat-cured-retail-desc": "Cured bushmeat always comes in handy, I will buy 48 portions for 8 crowns.",
 "edenvalrpeconomy:bushmeat-cured-retail-obj": "{0}/48",
 
+"edenvalrpeconomy:sausage-bloodsausage-cooked-inbulk-title": "I'm Running Out of Blood Sausage! (64x)",
+"edenvalrpeconomy:sausage-bloodsausage-cooked-inbulk-desc": "We lack blood sausage in our supplies, I will buy 64 pieces for 8 crowns.",
+"edenvalrpeconomy:sausage-bloodsausage-cooked-inbulk-obj": "{0}/64",
+
+"edenvalrpeconomy:sausage-bloodsausage-cooked-retail-title": "I'm Short on Blood Sausage! (32x)",
+"edenvalrpeconomy:sausage-bloodsausage-cooked-retail-desc": "Although we have supplies, I will buy 32 pieces of blood sausage for 4 crowns.",
+"edenvalrpeconomy:sausage-bloodsausage-cooked-retail-obj": "{0}/32",
+
 "edenvalrpeconomy:sausage-blackpudding-cooked-inbulk-title": "I Could Use Some Black Pudding! (56x)",
 "edenvalrpeconomy:sausage-blackpudding-cooked-inbulk-desc": "We lack black pudding in our supplies, I will buy 56 pieces for 8 crowns.",
 "edenvalrpeconomy:sausage-blackpudding-cooked-inbulk-obj": "{0}/56",
@@ -149,14 +149,6 @@
 "edenvalrpeconomy:sausage-blackpudding-cooked-retail-desc": "Although we have supplies, I will buy 28 pieces of black pudding for 4 crowns.",
 "edenvalrpeconomy:sausage-blackpudding-cooked-retail-obj": "{0}/28",
 
-"edenvalrpeconomy:sausage-dried-inbulk-title": "I'm Short on Dried Sausage! (96x)",
-"edenvalrpeconomy:sausage-dried-inbulk-desc": "Our dried sausage supplies are running low, I will buy 96 pieces for 12 crowns.",
-"edenvalrpeconomy:sausage-dried-inbulk-obj": "{0}/96",
-
-"edenvalrpeconomy:sausage-dried-retail-title": "I'm Out of Dried Sausage! (32x)",
-"edenvalrpeconomy:sausage-dried-retail-desc": "Dried sausage always comes in handy, I will buy 32 pieces for 4 crowns.",
-"edenvalrpeconomy:sausage-dried-retail-obj": "{0}/32",
-
 "edenvalrpeconomy:sausage-vintage-inbulk-title": "I Beg for Some Vintage Sausage! (240x)",
 "edenvalrpeconomy:sausage-vintage-inbulk-desc": "We lack vintage sausage in our supplies, I will buy 240 pieces for 40 crowns.",
 "edenvalrpeconomy:sausage-vintage-inbulk-obj": "{0}/240",
@@ -164,6 +156,14 @@
 "edenvalrpeconomy:sausage-vintage-retail-title": "I Could Use Some Vintage Sausage! (60x)",
 "edenvalrpeconomy:sausage-vintage-retail-desc": "Although we have supplies, I will buy 60 pieces of vintage sausage for 10 crowns.",
 "edenvalrpeconomy:sausage-vintage-retail-obj": "{0}/60",
+
+"edenvalrpeconomy:sausage-cured-inbulk-title": "I'm Short on Cured Sausage! (96x)",
+"edenvalrpeconomy:sausage-cured-inbulk-desc": "Our Cured sausage supplies are running low, I will buy 96 pieces for 12 crowns.",
+"edenvalrpeconomy:sausage-cured-inbulk-obj": "{0}/96",
+
+"edenvalrpeconomy:sausage-cured-retail-title": "I'm Out of Cured Sausage! (32x)",
+"edenvalrpeconomy:sausage-cured-retail-desc": "Cured sausage always comes in handy, I will buy 32 pieces for 4 crowns.",
+"edenvalrpeconomy:sausage-cured-retail-obj": "{0}/32",
 
 "edenvalrpeconomy:sausage-cheese-inbulk-title": "I'm Running Out of Cheese Sausage! (32x)",
 "edenvalrpeconomy:sausage-cheese-inbulk-desc": "Our cheese sausage supplies are running low, I will buy 32 pieces for 32 crowns.",
