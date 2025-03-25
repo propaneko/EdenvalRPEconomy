@@ -152,5 +152,43 @@
                 "amount": 4
             }
         ]
+    },
+    {
+        "id": "edenvalrpeconomy:heal-wax-inbulk",
+        "cooldown": 1,
+        "perPlayer": true,
+        "gatherObjectives": [
+            {
+                "validCodes": [
+                    "heal-wax"
+                ],
+                "demand": 50
+            }
+        ],
+        "itemRewards": [
+            {
+                "itemCode": "edenvalrpeconomy:coin",
+                "amount": 30
+            }
+        ]
+    },
+    {
+        "id": "edenvalrpeconomy:heal-wax-retail",
+        "cooldown": 1,
+        "perPlayer": true,
+        "gatherObjectives": [
+            {
+                "validCodes": [
+                    "heal-wax"
+                ],
+                "demand": 15
+            }
+        ],
+        "itemRewards": [
+            {
+                "itemCode": "edenvalrpeconomy:coin",
+                "amount": 9
+            }
+        ]
     }
 ]

@@ -27,45 +27,45 @@
 "edenvalrpeconomy:ingot-silver-retail-desc": "We have silver supplies, but this amount will still fit. I will pay 10 crowns.",
 "edenvalrpeconomy:ingot-silver-retail-obj": "{0}/30 silver ingots",
 
-"edenvalrpeconomy:ingot-steel-inbulk-title": "Help Me Get Steel! (48x)",
-"edenvalrpeconomy:ingot-steel-inbulk-desc": "We lack steel to fight rust. I need 48 ingots. I will pay generously! How much? 24 crowns.",
-"edenvalrpeconomy:ingot-steel-inbulk-obj": "{0}/48 steel ingots",
+"edenvalrpeconomy:ingot-steel-inbulk-title": "Help Me Get Steel! (16x)",
+"edenvalrpeconomy:ingot-steel-inbulk-desc": "We lack steel to fight rust. I need 16 ingots. I will pay generously! How much? 32 crowns.",
+"edenvalrpeconomy:ingot-steel-inbulk-obj": "{0}/16 steel ingots",
 
-"edenvalrpeconomy:ingot-steel-retail-title": "I Could Use Some More Steel! (16x)",
-"edenvalrpeconomy:ingot-steel-retail-desc": "Although we have enough steel, I wouldn't mind more. I will buy 16 ingots for 8 crowns.",
-"edenvalrpeconomy:ingot-steel-retail-obj": "{0}/16 steel ingots",
+"edenvalrpeconomy:ingot-steel-retail-title": "I Could Use Some More Steel! (4x)",
+"edenvalrpeconomy:ingot-steel-retail-desc": "Although we have enough steel, I wouldn't mind more. I will buy 4 ingots for 8 crowns.",
+"edenvalrpeconomy:ingot-steel-retail-obj": "{0}/4 steel ingots",
 
-"edenvalrpeconomy:ingot-iron-inbulk-title": "I'm Running Out of Iron! (160x)",
-"edenvalrpeconomy:ingot-iron-inbulk-desc": "I'm buying iron! I will pay well! I will buy 160 ingots for 10 crowns!",
-"edenvalrpeconomy:ingot-iron-inbulk-obj": "{0}/160 iron ingots",
+"edenvalrpeconomy:ingot-iron-inbulk-title": "I'm Running Out of Iron! (60x)",
+"edenvalrpeconomy:ingot-iron-inbulk-desc": "I'm buying iron! I will pay well! I will buy 60 ingots for 10 crowns!",
+"edenvalrpeconomy:ingot-iron-inbulk-obj": "{0}/60 iron ingots",
 
-"edenvalrpeconomy:ingot-iron-retail-title": "I Need a Handful of Iron! (64x)",
-"edenvalrpeconomy:ingot-iron-retail-desc": "Iron is a very useful metal, we have plenty of it, but 64 ingots will still fit. I will pay 4 crowns.",
-"edenvalrpeconomy:ingot-iron-retail-obj": "{0}/64 iron ingots",
+"edenvalrpeconomy:ingot-iron-retail-title": "I Need a Handful of Iron! (24x)",
+"edenvalrpeconomy:ingot-iron-retail-desc": "Iron is a very useful metal, we have plenty of it, but 24 ingots will still fit. I will pay 4 crowns.",
+"edenvalrpeconomy:ingot-iron-retail-obj": "{0}/24 iron ingots",
 
-"edenvalrpeconomy:ingot-bismuthbronze-inbulk-title": "I Need Bismuth Bronze! (160x)",
-"edenvalrpeconomy:ingot-bismuthbronze-inbulk-desc": "We lack bronze for decorations, I will buy 160 ingots for 10 crowns.",
-"edenvalrpeconomy:ingot-bismuthbronze-inbulk-obj": "{0}/160 bismuth bronze ingots",
+"edenvalrpeconomy:ingot-bismuthbronze-inbulk-title": "I Need Bismuth Bronze! (100x)",
+"edenvalrpeconomy:ingot-bismuthbronze-inbulk-desc": "We lack bronze for decorations, I will buy 100 ingots for 10 crowns.",
+"edenvalrpeconomy:ingot-bismuthbronze-inbulk-obj": "{0}/100 bismuth bronze ingots",
 
-"edenvalrpeconomy:ingot-bismuthbronze-retail-title": "I'm Short on Bismuth Bronze! (64x)",
-"edenvalrpeconomy:ingot-bismuthbronze-retail-desc": "A bit of bronze always comes in handy, I will buy 64 ingots for 4 crowns.",
-"edenvalrpeconomy:ingot-bismuthbronze-retail-obj": "{0}/64 bismuth bronze ingots",
+"edenvalrpeconomy:ingot-bismuthbronze-retail-title": "I'm Short on Bismuth Bronze! (40x)",
+"edenvalrpeconomy:ingot-bismuthbronze-retail-desc": "A bit of bronze always comes in handy, I will buy 40 ingots for 4 crowns.",
+"edenvalrpeconomy:ingot-bismuthbronze-retail-obj": "{0}/40 bismuth bronze ingots",
 
-"edenvalrpeconomy:ingot-tinbronze-inbulk-title": "I'm Short on Tin Bronze! (160x)",
-"edenvalrpeconomy:ingot-tinbronze-inbulk-desc": "We lack bronze for decorations, I will buy 160 ingots for 10 crowns.",
-"edenvalrpeconomy:ingot-tinbronze-inbulk-obj": "{0}/160 tin bronze ingots",
+"edenvalrpeconomy:ingot-tinbronze-inbulk-title": "I'm Short on Tin Bronze! (100x)",
+"edenvalrpeconomy:ingot-tinbronze-inbulk-desc": "We lack bronze for decorations, I will buy 100 ingots for 10 crowns.",
+"edenvalrpeconomy:ingot-tinbronze-inbulk-obj": "{0}/100 tin bronze ingots",
 
-"edenvalrpeconomy:ingot-tinbronze-retail-title": "I Need a Bit More Tin Bronze! (64x)",
-"edenvalrpeconomy:ingot-tinbronze-retail-desc": "Hello. I will buy 64 tin bronze ingots. I offer 4 crowns.",
-"edenvalrpeconomy:ingot-tinbronze-retail-obj": "{0}/64 tin bronze ingots",
+"edenvalrpeconomy:ingot-tinbronze-retail-title": "I Need a Bit More Tin Bronze! (40x)",
+"edenvalrpeconomy:ingot-tinbronze-retail-desc": "Hello. I will buy 40 tin bronze ingots. I offer 4 crowns.",
+"edenvalrpeconomy:ingot-tinbronze-retail-obj": "{0}/40 tin bronze ingots",
 
-"edenvalrpeconomy:ingot-copper-inbulk-title": "I Beg for Copper! (160x)",
-"edenvalrpeconomy:ingot-copper-inbulk-desc": "We lack copper for equipment, I will buy 160 ingots for 8 crowns.",
-"edenvalrpeconomy:ingot-copper-inbulk-obj": "{0}/160 copper ingots",
+"edenvalrpeconomy:ingot-copper-inbulk-title": "I Beg for Copper! (96x)",
+"edenvalrpeconomy:ingot-copper-inbulk-desc": "We lack copper for equipment, I will buy 96 ingots for 8 crowns.",
+"edenvalrpeconomy:ingot-copper-inbulk-obj": "{0}/96 copper ingots",
 
-"edenvalrpeconomy:ingot-copper-retail-title": "I Could Use Some More Copper! (40x)",
-"edenvalrpeconomy:ingot-copper-retail-desc": "Our warehouse is full, but copper is a good metal. I will buy 40 ingots for 2 crowns.",
-"edenvalrpeconomy:ingot-copper-retail-obj": "{0}/40 copper ingots",
+"edenvalrpeconomy:ingot-copper-retail-title": "I Could Use Some More Copper! (32x)",
+"edenvalrpeconomy:ingot-copper-retail-desc": "Our warehouse is full, but copper is a good metal. I will buy 32 ingots for 2 crowns.",
+"edenvalrpeconomy:ingot-copper-retail-obj": "{0}/32 copper ingots",
 
 "edenvalrpeconomy:ingot-bismuth-inbulk-title": "I'm Out of Bismuth! (80x)",
 "edenvalrpeconomy:ingot-bismuth-inbulk-desc": "We lack bismuth in our warehouse, I will buy 80 ingots for 10 crowns.",
@@ -77,13 +77,13 @@
 
 
 
-"edenvalrpeconomy:flour-inbulk-title": "I'm Out of Flour! (1536x)",
-"edenvalrpeconomy:flour-inbulk-desc": "Our granary is a bit empty, I will buy 24 sacks of flour for 12 crowns.",
-"edenvalrpeconomy:flour-inbulk-obj": "{0}/1536",
+"edenvalrpeconomy:flour-inbulk-title": "I'm Out of Flour! (768x)",
+"edenvalrpeconomy:flour-inbulk-desc": "Our granary is a bit empty, I will buy 12 sacks of flour for 12 crowns.",
+"edenvalrpeconomy:flour-inbulk-obj": "{0}/768",
 
-"edenvalrpeconomy:flour-retail-title": "I Beg for Some Flour! (512x)",
-"edenvalrpeconomy:flour-retail-desc": "If you still have some flour in your village, I will buy 8 sacks for 4 crowns.",
-"edenvalrpeconomy:flour-retail-obj": "{0}/512",
+"edenvalrpeconomy:flour-retail-title": "I Beg for Some Flour! (256x)",
+"edenvalrpeconomy:flour-retail-desc": "If you still have some flour in your village, I will buy 4 sacks for 4 crowns.",
+"edenvalrpeconomy:flour-retail-obj": "{0}/256",
 
 "edenvalrpeconomy:packed-pemmican-inbulk-title": "I Could Use Some Pemmican! (30x)",
 "edenvalrpeconomy:packed-pemmican-inbulk-desc": "We need more pemmican for expeditions, I will buy 30 portions for 30 crowns.",
@@ -257,38 +257,47 @@
 "edenvalrpeconomy:backpack-normal-retail-desc": "Leather backpacks are always useful, I'll buy 4 units for 4 crowns.",
 "edenvalrpeconomy:backpack-normal-retail-obj": "{0}/4",
 
+"edenvalrpeconomy:paper-parchment-inbulk-title": "I need more parchment ! (96x)",
+"edenvalrpeconomy:paper-parchment-inbulk-desc": "Paper Parchment is useful, I'll take 96 units for 12 crowns.",
+"edenvalrpeconomy:paper-parchment-inbulk-obj": "{0}/96",
 
-"edenvalrpeconomy:ore-lignite-inbulk-title": "I'm out of lignite! (512x)",
-"edenvalrpeconomy:ore-lignite-inbulk-desc": "Our lignite supplies are running low, I'll buy 512 units for 16 crowns.",
-"edenvalrpeconomy:ore-lignite-inbulk-obj": "{0}/512",
+"edenvalrpeconomy:paper-parchment-retail-title": "I'm running out of paper parchment! (32x)",
+"edenvalrpeconomy:paper-parchment-retail-desc": "Our parchment supplies are running low, I'll buy 32 units for 4 crowns.",
+"edenvalrpeconomy:paper-parchment-retail-obj": "{0}/32",
 
-"edenvalrpeconomy:ore-bituminouscoal-inbulk-title": "I'm begging for some bituminous coal! (512x)",
-"edenvalrpeconomy:ore-bituminouscoal-inbulk-desc": "We're short on bituminous coal in our warehouse, I'll buy 512 units for 16 crowns.",
-"edenvalrpeconomy:ore-bituminouscoal-inbulk-obj": "{0}/512",
 
-"edenvalrpeconomy:charcoal-inbulk-title": "I could use some charcoal! (640x)",
-"edenvalrpeconomy:charcoal-inbulk-desc": "We need more charcoal, I'll buy 640 units for 10 crowns.",
-"edenvalrpeconomy:charcoal-inbulk-obj": "{0}/640",
 
-"edenvalrpeconomy:peatbrick-inbulk-title": "I'm running out of peat! (960x)",
-"edenvalrpeconomy:peatbrick-inbulk-desc": "Our peat supplies are running low, I'll buy 960 units for 10 crowns.",
-"edenvalrpeconomy:peatbrick-inbulk-obj": "{0}/960",
+"edenvalrpeconomy:ore-lignite-inbulk-title": "I'm out of lignite! (256x)",
+"edenvalrpeconomy:ore-lignite-inbulk-desc": "Our lignite supplies are running low, I'll buy 256 units for 16 crowns.",
+"edenvalrpeconomy:ore-lignite-inbulk-obj": "{0}/256",
 
-"edenvalrpeconomy:ore-lignite-retail-title": "I'm short on lignite! (192x)",
-"edenvalrpeconomy:ore-lignite-retail-desc": "Even though we have some in stock, I'll buy 192 units of lignite for 6 crowns.",
-"edenvalrpeconomy:ore-lignite-retail-obj": "{0}/192",
+"edenvalrpeconomy:ore-bituminouscoal-inbulk-title": "I'm begging for some bituminous coal! (256x)",
+"edenvalrpeconomy:ore-bituminouscoal-inbulk-desc": "We're short on bituminous coal in our warehouse, I'll buy 256 units for 16 crowns.",
+"edenvalrpeconomy:ore-bituminouscoal-inbulk-obj": "{0}/256",
 
-"edenvalrpeconomy:ore-bituminouscoal-retail-title": "I'm out of bituminous coal! (192x)",
-"edenvalrpeconomy:ore-bituminouscoal-retail-desc": "Bituminous coal always comes in handy, I'll buy 192 units for 6 crowns.",
-"edenvalrpeconomy:ore-bituminouscoal-retail-obj": "{0}/192",
+"edenvalrpeconomy:charcoal-inbulk-title": "I could use some charcoal! (320x)",
+"edenvalrpeconomy:charcoal-inbulk-desc": "We need more charcoal, I'll buy 320 units for 10 crowns.",
+"edenvalrpeconomy:charcoal-inbulk-obj": "{0}/320",
 
-"edenvalrpeconomy:charcoal-retail-title": "I could use some charcoal! (192x)",
-"edenvalrpeconomy:charcoal-retail-desc": "Charcoal is essential for our supplies, I'll buy 192 units for 3 crowns.",
-"edenvalrpeconomy:charcoal-retail-obj": "{0}/192",
+"edenvalrpeconomy:peatbrick-inbulk-title": "I'm running out of peat! (640x)",
+"edenvalrpeconomy:peatbrick-inbulk-desc": "Our peat supplies are running low, I'll buy 640 units for 10 crowns.",
+"edenvalrpeconomy:peatbrick-inbulk-obj": "{0}/640",
 
-"edenvalrpeconomy:peatbrick-retail-title": "I'm running out of peat! (288x)",
-"edenvalrpeconomy:peatbrick-retail-desc": "Peat always comes in handy, I'll buy 288 units for 3 crowns.",
-"edenvalrpeconomy:peatbrick-retail-obj": "{0}/288",
+"edenvalrpeconomy:ore-lignite-retail-title": "I'm short on lignite! (96x)",
+"edenvalrpeconomy:ore-lignite-retail-desc": "Even though we have some in stock, I'll buy 96 units of lignite for 6 crowns.",
+"edenvalrpeconomy:ore-lignite-retail-obj": "{0}/96",
+
+"edenvalrpeconomy:ore-bituminouscoal-retail-title": "I'm out of bituminous coal! (96x)",
+"edenvalrpeconomy:ore-bituminouscoal-retail-desc": "Bituminous coal always comes in handy, I'll buy 96 units for 6 crowns.",
+"edenvalrpeconomy:ore-bituminouscoal-retail-obj": "{0}/96",
+
+"edenvalrpeconomy:charcoal-retail-title": "I could use some charcoal! (96x)",
+"edenvalrpeconomy:charcoal-retail-desc": "Charcoal is essential for our supplies, I'll buy 96 units for 3 crowns.",
+"edenvalrpeconomy:charcoal-retail-obj": "{0}/96",
+
+"edenvalrpeconomy:peatbrick-retail-title": "I'm running out of peat! (192x)",
+"edenvalrpeconomy:peatbrick-retail-desc": "Peat always comes in handy, I'll buy 192 units for 3 crowns.",
+"edenvalrpeconomy:peatbrick-retail-obj": "{0}/192",
 
 
 
@@ -322,5 +331,13 @@
 
 "edenvalrpeconomy:lantern-up-retail-title": "I could use some lanterns! (16x)",
 "edenvalrpeconomy:lantern-up-retail-desc": "Lanterns always come in handy, I'll buy 16 units for 4 crowns.",
-"edenvalrpeconomy:lantern-up-retail-obj": "{0}/16"
+"edenvalrpeconomy:lantern-up-retail-obj": "{0}/16",
+
+"edenvalrpeconomy:heal-wax-inbulk-title": "I need more wax bandage! (50x)",
+"edenvalrpeconomy:heal-wax-inbulk-desc": "I run out of wax bandage, I'll buy 50 units for 30 crowns.",
+"edenvalrpeconomy:heal-wax-inbulk-obj": "{0}/50",
+
+"edenvalrpeconomy:heal-wax-retail-title": "I could use some wax bandage! (15x)",
+"edenvalrpeconomy:heal-wax-retail-desc": "Wax bandage always come in handy,I'll buy 15 units for 9 crowns.",
+"edenvalrpeconomy:heal-wax-retail-obj": "{0}/15"
 }

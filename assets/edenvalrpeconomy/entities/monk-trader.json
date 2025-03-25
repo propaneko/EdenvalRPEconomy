@@ -582,7 +582,9 @@
           "edenvalrpeconomy:candle-inbulk",
           "edenvalrpeconomy:candle-retail",
           "edenvalrpeconomy:backpack-normal-inbulk",
-          "edenvalrpeconomy:backpack-normal-retail"
+          "edenvalrpeconomy:backpack-normal-retail",
+          "edenvalrpeconomy:paper-parchment-inbulk",
+          "edenvalrpeconomy:paper-parchment-retail"
         ],
         "selectrandom": false
       },

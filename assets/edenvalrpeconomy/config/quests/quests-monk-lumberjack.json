@@ -8,7 +8,7 @@
                 "validCodes": [
                     "ore-lignite"
                 ],
-                "demand": 512
+                "demand": 256
             }
         ],
         "itemRewards": [
@@ -27,7 +27,7 @@
                 "validCodes": [
                     "ore-bituminouscoal"
                 ],
-                "demand": 512
+                "demand": 256
             }
         ],
         "itemRewards": [
@@ -46,7 +46,7 @@
                 "validCodes": [
                     "charcoal"
                 ],
-                "demand": 640
+                "demand": 320
             }
         ],
         "itemRewards": [
@@ -65,7 +65,7 @@
                 "validCodes": [
                     "peatbrick"
                 ],
-                "demand": 960
+                "demand": 640
             }
         ],
         "itemRewards": [
@@ -85,7 +85,7 @@
                 "validCodes": [
                     "ore-lignite"
                 ],
-                "demand": 192
+                "demand": 96
             }
         ],
         "itemRewards": [
@@ -104,7 +104,7 @@
                 "validCodes": [
                     "ore-bituminouscoal"
                 ],
-                "demand": 192
+                "demand": 96
             }
         ],
         "itemRewards": [
@@ -123,7 +123,7 @@
                 "validCodes": [
                     "charcoal"
                 ],
-                "demand": 192
+                "demand": 96
             }
         ],
         "itemRewards": [
@@ -142,7 +142,7 @@
                 "validCodes": [
                     "peatbrick"
                 ],
-                "demand": 288
+                "demand": 192
             }
         ],
         "itemRewards": [

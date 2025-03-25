@@ -27,45 +27,45 @@
   "edenvalrpeconomy:ingot-silver-retail-desc": "Mamy zapasy srebra, ale ta ilość się jeszcze zmieści. Zapłacę 10 koron.",
   "edenvalrpeconomy:ingot-silver-retail-obj": "{0}/30 srebrnych sztabek",
 
-  "edenvalrpeconomy:ingot-steel-inbulk-title": "Pomóż Mi Zdobyć Stal! (48x)",
-  "edenvalrpeconomy:ingot-steel-inbulk-desc": "Brakuje nam stali do walki z rdzą. Potrzebuję 48 sztabek. Zapłacę hojnie! Ile? 24 koron.",
-  "edenvalrpeconomy:ingot-steel-inbulk-obj": "{0}/48 stalowych sztabek",
+  "edenvalrpeconomy:ingot-steel-inbulk-title": "Pomóż Mi Zdobyć Stal! (16x)",
+  "edenvalrpeconomy:ingot-steel-inbulk-desc": "Brakuje nam stali do walki z rdzą. Potrzebuję 16 sztabek. Zapłacę hojnie! Ile? 32 koron.",
+  "edenvalrpeconomy:ingot-steel-inbulk-obj": "{0}/16 stalowych sztabek",
 
-  "edenvalrpeconomy:ingot-steel-retail-title": "Przydałoby Mi Się Trochę Więcej Stali! (16x)",
-  "edenvalrpeconomy:ingot-steel-retail-desc": "Chociaż mamy dość stali, nie pogardzę większą ilością. Kupię 16 sztabek za 8 koron.",
-  "edenvalrpeconomy:ingot-steel-retail-obj": "{0}/16 stalowych sztabek",
+  "edenvalrpeconomy:ingot-steel-retail-title": "Przydałoby Mi Się Trochę Więcej Stali! (4x)",
+  "edenvalrpeconomy:ingot-steel-retail-desc": "Chociaż mamy dość stali, nie pogardzę większą ilością. Kupię 4 sztabek za 8 koron.",
+  "edenvalrpeconomy:ingot-steel-retail-obj": "{0}/4 stalowych sztabek",
 
-  "edenvalrpeconomy:ingot-iron-inbulk-title": "Kończy Mi Się Żelazo! (160x)",
-  "edenvalrpeconomy:ingot-iron-inbulk-desc": "Kupuję żelazo! Zapłacę dobrze! Kupię 160 sztabek za 10 koron!",
-  "edenvalrpeconomy:ingot-iron-inbulk-obj": "{0}/160 żelaznych sztabek",
+  "edenvalrpeconomy:ingot-iron-inbulk-title": "Kończy Mi Się Żelazo! (60x)",
+  "edenvalrpeconomy:ingot-iron-inbulk-desc": "Kupuję żelazo! Zapłacę dobrze! Kupię 60 sztabek za 10 koron!",
+  "edenvalrpeconomy:ingot-iron-inbulk-obj": "{0}/60 żelaznych sztabek",
 
-  "edenvalrpeconomy:ingot-iron-retail-title": "Potrzebuję Garstki Żelaza! (64x)",
-  "edenvalrpeconomy:ingot-iron-retail-desc": "Żelazo to bardzo przydatny metal, mamy go pod dostatkiem, ale zmieści się jeszcze 64 sztabek. Zapłacę 4 korony.",
-  "edenvalrpeconomy:ingot-iron-retail-obj": "{0}/64 żelaznych sztabek",
+  "edenvalrpeconomy:ingot-iron-retail-title": "Potrzebuję Garstki Żelaza! (24x)",
+  "edenvalrpeconomy:ingot-iron-retail-desc": "Żelazo to bardzo przydatny metal, mamy go pod dostatkiem, ale zmieści się jeszcze 24 sztabek. Zapłacę 4 korony.",
+  "edenvalrpeconomy:ingot-iron-retail-obj": "{0}/24 żelaznych sztabek",
 
-  "edenvalrpeconomy:ingot-bismuthbronze-inbulk-title": "Potrzebuję Brązu Bizmutowego! (160x)",
-  "edenvalrpeconomy:ingot-bismuthbronze-inbulk-desc": "Brakuje nam brązu na dekoracje, kupię 160 sztabek za 10 koron.",
-  "edenvalrpeconomy:ingot-bismuthbronze-inbulk-obj": "{0}/160 sztabek brązu bizmutowego",
+  "edenvalrpeconomy:ingot-bismuthbronze-inbulk-title": "Potrzebuję Brązu Bizmutowego! (100x)",
+  "edenvalrpeconomy:ingot-bismuthbronze-inbulk-desc": "Brakuje nam brązu na dekoracje, kupię 100 sztabek za 10 koron.",
+  "edenvalrpeconomy:ingot-bismuthbronze-inbulk-obj": "{0}/100 sztabek brązu bizmutowego",
     
-  "edenvalrpeconomy:ingot-bismuthbronze-retail-title": "Brakuje Mi Brązu Bizmutowego! (64x)",
-  "edenvalrpeconomy:ingot-bismuthbronze-retail-desc": "Trochę brązu zawsze się przyda, kupię 64 sztabek za 4 korony.",
-  "edenvalrpeconomy:ingot-bismuthbronze-retail-obj": "{0}/64 sztabek brązu bizmutowego",
+  "edenvalrpeconomy:ingot-bismuthbronze-retail-title": "Brakuje Mi Brązu Bizmutowego! (40x)",
+  "edenvalrpeconomy:ingot-bismuthbronze-retail-desc": "Trochę brązu zawsze się przyda, kupię 40 sztabek za 4 korony.",
+  "edenvalrpeconomy:ingot-bismuthbronze-retail-obj": "{0}/40 sztabek brązu bizmutowego",
 
-  "edenvalrpeconomy:ingot-tinbronze-inbulk-title": "Brakuje Mi Brązu Cynowego! (160x)",
-  "edenvalrpeconomy:ingot-tinbronze-inbulk-desc": "Brakuje nam brązu na dekoracje, kupię 160 sztabek za 10 koron.",
-  "edenvalrpeconomy:ingot-tinbronze-inbulk-obj": "{0}/160 sztabek brązu cynowego",
+  "edenvalrpeconomy:ingot-tinbronze-inbulk-title": "Brakuje Mi Brązu Cynowego! (100x)",
+  "edenvalrpeconomy:ingot-tinbronze-inbulk-desc": "Brakuje nam brązu na dekoracje, kupię 100 sztabek za 10 koron.",
+  "edenvalrpeconomy:ingot-tinbronze-inbulk-obj": "{0}/100 sztabek brązu cynowego",
 
-  "edenvalrpeconomy:ingot-tinbronze-retail-title": "Potrzebuję Trochę Brązu Cynowego! (64x)",
-  "edenvalrpeconomy:ingot-tinbronze-retail-desc": "Witaj. Kupię 64 sztabek brązu cynowego. Oferuję 4 korony.",
-  "edenvalrpeconomy:ingot-tinbronze-retail-obj": "{0}/64 sztabek brązu cynowego",
+  "edenvalrpeconomy:ingot-tinbronze-retail-title": "Potrzebuję Trochę Brązu Cynowego! (40x)",
+  "edenvalrpeconomy:ingot-tinbronze-retail-desc": "Witaj. Kupię 40 sztabek brązu cynowego. Oferuję 4 korony.",
+  "edenvalrpeconomy:ingot-tinbronze-retail-obj": "{0}/40 sztabek brązu cynowego",
 
-  "edenvalrpeconomy:ingot-copper-inbulk-title": "Błagam o Miedź! (160x)",
-  "edenvalrpeconomy:ingot-copper-inbulk-desc": "Brakuje nam miedzi na sprzęt, kupię 160 sztabek za 8 koron.",
-  "edenvalrpeconomy:ingot-copper-inbulk-obj": "{0}/160 miedzianych sztabek",
+  "edenvalrpeconomy:ingot-copper-inbulk-title": "Błagam o Miedź! (96x)",
+  "edenvalrpeconomy:ingot-copper-inbulk-desc": "Brakuje nam miedzi na sprzęt, kupię 96 sztabek za 8 koron.",
+  "edenvalrpeconomy:ingot-copper-inbulk-obj": "{0}/96 miedzianych sztabek",
 
-  "edenvalrpeconomy:ingot-copper-retail-title": "Przydałaby Mi Się Trochę Miedzi! (40x)",
-  "edenvalrpeconomy:ingot-copper-retail-desc": "Nasz magazyn jest pełny, ale miedź to dobry metal. Kupię 40 sztabek za 2 koronę.",
-  "edenvalrpeconomy:ingot-copper-retail-obj": "{0}/40 miedzianych sztabek",
+  "edenvalrpeconomy:ingot-copper-retail-title": "Przydałaby Mi Się Trochę Miedzi! (32x)",
+  "edenvalrpeconomy:ingot-copper-retail-desc": "Nasz magazyn jest pełny, ale miedź to dobry metal. Kupię 32 sztabek za 2 koronę.",
+  "edenvalrpeconomy:ingot-copper-retail-obj": "{0}/32 miedzianych sztabek",
 
   "edenvalrpeconomy:ingot-bismuth-inbulk-title": "Skończył Mi Się Bizmut! (80x)",
   "edenvalrpeconomy:ingot-bismuth-inbulk-desc": "Brakuje nam bizmutu w magazynie, kupię 80 sztabek za 10 koron.",
@@ -77,13 +77,13 @@
 
 
 
-  "edenvalrpeconomy:flour-inbulk-title": "Skończyła mi się mąka! (1536x)",
-  "edenvalrpeconomy:flour-inbulk-desc": "Nasz spichlerz jest trochę pusty, kupię 24 worków mąki za 12 koron.",
-  "edenvalrpeconomy:flour-inbulk-obj": "{0}/1536",
+  "edenvalrpeconomy:flour-inbulk-title": "Skończyła mi się mąka! (768x)",
+  "edenvalrpeconomy:flour-inbulk-desc": "Nasz spichlerz jest trochę pusty, kupię 12 worków mąki za 12 koron.",
+  "edenvalrpeconomy:flour-inbulk-obj": "{0}/768",
 
-  "edenvalrpeconomy:flour-retail-title": "Błagam o trochę mąki! (512x)",
-  "edenvalrpeconomy:flour-retail-desc": "Jeśli masz jeszcze trochę mąki w swojej wiosce, kupię 8 worków za 4 korony.",
-  "edenvalrpeconomy:flour-retail-obj": "{0}/512",
+  "edenvalrpeconomy:flour-retail-title": "Błagam o trochę mąki! (256x)",
+  "edenvalrpeconomy:flour-retail-desc": "Jeśli masz jeszcze trochę mąki w swojej wiosce, kupię 4 worki za 4 korony.",
+  "edenvalrpeconomy:flour-retail-obj": "{0}/256",
 
   "edenvalrpeconomy:packed-pemmican-inbulk-title": "Przydałoby mi się trochę pemmikanu! (30x)",
   "edenvalrpeconomy:packed-pemmican-inbulk-desc": "Potrzebujemy więcej pemmikanu na wyprawy, kupię 30 porcji za 30 koron.",
@@ -257,39 +257,47 @@
   "edenvalrpeconomy:backpack-normal-retail-desc": "Plecaki skórzane zawsze się przydają, kupię 4 sztuki za 4 korony.",
   "edenvalrpeconomy:backpack-normal-retail-obj": "{0}/4",
 
+  "edenvalrpeconomy:paper-parchment-inbulk-title": "Brakuje nam Pergaminu! (96x)",
+  "edenvalrpeconomy:paper-parchment-inbulk-desc": "Pilnie potrzebuje 96 sztuk pergaminu z papirusu, dam ci 12 koron.",
+  "edenvalrpeconomy:paper-parchment-inbulk-obj": "{0}/96",
+
+  "edenvalrpeconomy:paper-parchment-retail-title": "Potrzebuje trochę Pergaminu! (32x)",
+  "edenvalrpeconomy:paper-parchment-retail-desc": "Brakuje mi paru sztuk Pergaminu z papirusa, za 32 sztuki dam ci 4 korony.",
+  "edenvalrpeconomy:paper-parchment-retail-obj": "{0}/32",
 
 
-  "edenvalrpeconomy:ore-lignite-inbulk-title": "Skończył mi się węgiel brunatny! (512x)",
-  "edenvalrpeconomy:ore-lignite-inbulk-desc": "Nasze zapasy węgla brunatnego są na wyczerpaniu, kupię 512 sztuk za 16 koron.",
-  "edenvalrpeconomy:ore-lignite-inbulk-obj": "{0}/512",
 
-  "edenvalrpeconomy:ore-bituminouscoal-inbulk-title": "Błagam o trochę węgla kamiennego! (512x)",
-  "edenvalrpeconomy:ore-bituminouscoal-inbulk-desc": "Brakuje węgla kamiennego w naszym magazynie, kupię 512 sztuk za 16 koron.",
-  "edenvalrpeconomy:ore-bituminouscoal-inbulk-obj": "{0}/512",
+  "edenvalrpeconomy:ore-lignite-inbulk-title": "Skończył mi się węgiel brunatny! (256x)",
+  "edenvalrpeconomy:ore-lignite-inbulk-desc": "Nasze zapasy węgla brunatnego są na wyczerpaniu, kupię 256 sztuk za 16 koron.",
+  "edenvalrpeconomy:ore-lignite-inbulk-obj": "{0}/256",
 
-  "edenvalrpeconomy:charcoal-inbulk-title": "Przydałoby mi się trochę węgla drzewnego! (640x)",
-  "edenvalrpeconomy:charcoal-inbulk-desc": "Potrzebujemy więcej węgla drzewnego, kupię 640 sztuk za 10 koron.",
-  "edenvalrpeconomy:charcoal-inbulk-obj": "{0}/640",
+  "edenvalrpeconomy:ore-bituminouscoal-inbulk-title": "Błagam o trochę węgla kamiennego! (256x)",
+  "edenvalrpeconomy:ore-bituminouscoal-inbulk-desc": "Brakuje węgla kamiennego w naszym magazynie, kupię 256 sztuk za 16 koron.",
+  "edenvalrpeconomy:ore-bituminouscoal-inbulk-obj": "{0}/256",
 
-  "edenvalrpeconomy:peatbrick-inbulk-title": "Kończy mi się torf! (960x)",
-  "edenvalrpeconomy:peatbrick-inbulk-desc": "Nasze zapasy torfu są na wyczerpaniu, kupię 960 sztuk za 10 koron.",
-  "edenvalrpeconomy:peatbrick-inbulk-obj": "{0}/960",
+  "edenvalrpeconomy:charcoal-inbulk-title": "Przydałoby mi się trochę węgla drzewnego! (320x)",
+  "edenvalrpeconomy:charcoal-inbulk-desc": "Potrzebujemy więcej węgla drzewnego, kupię 320 sztuk za 10 koron.",
+  "edenvalrpeconomy:charcoal-inbulk-obj": "{0}/320",
 
-  "edenvalrpeconomy:ore-lignite-retail-title": "Brakuje mi węgla brunatnego! (192x)",
-  "edenvalrpeconomy:ore-lignite-retail-desc": "Chociaż mamy zapasy, kupię 192 sztuki węgla brunatnego za 6 koron.",
-  "edenvalrpeconomy:ore-lignite-retail-obj": "{0}/192",
+  "edenvalrpeconomy:peatbrick-inbulk-title": "Kończy mi się torf! (640x)",
+  "edenvalrpeconomy:peatbrick-inbulk-desc": "Nasze zapasy torfu są na wyczerpaniu, kupię 640 sztuk za 10 koron.",
+  "edenvalrpeconomy:peatbrick-inbulk-obj": "{0}/640",
 
-  "edenvalrpeconomy:ore-bituminouscoal-retail-title": "Skończył mi się węgiel kamienny! (192x)",
-  "edenvalrpeconomy:ore-bituminouscoal-retail-desc": "Węgiel kamienny zawsze się przyda, kupię 192 sztuki za 6 koron.",
-  "edenvalrpeconomy:ore-bituminouscoal-retail-obj": "{0}/192",
+  "edenvalrpeconomy:ore-lignite-retail-title": "Brakuje mi węgla brunatnego! (96x)",
+  "edenvalrpeconomy:ore-lignite-retail-desc": "Chociaż mamy zapasy, kupię 96 sztuki węgla brunatnego za 6 koron.",
+  "edenvalrpeconomy:ore-lignite-retail-obj": "{0}/96",
 
-  "edenvalrpeconomy:charcoal-retail-title": "Przydałoby mi się trochę węgla drzewnego! (192x)",
-  "edenvalrpeconomy:charcoal-retail-desc": "Węgiel drzewny to podstawa naszych zapasów, kupię 192 sztuki za 3 korony.",
-  "edenvalrpeconomy:charcoal-retail-obj": "{0}/192",
+  "edenvalrpeconomy:ore-bituminouscoal-retail-title": "Skończył mi się węgiel kamienny! (96x)",
+  "edenvalrpeconomy:ore-bituminouscoal-retail-desc": "Węgiel kamienny zawsze się przyda, kupię 96 sztuki za 6 koron.",
+  "edenvalrpeconomy:ore-bituminouscoal-retail-obj": "{0}/96",
 
-  "edenvalrpeconomy:peatbrick-retail-title": "Kończy mi się torf! (288x)",
-  "edenvalrpeconomy:peatbrick-retail-desc": "Torf zawsze się przyda, kupię 288 sztuk za 3 korony.",
-  "edenvalrpeconomy:peatbrick-retail-obj": "{0}/288",
+  "edenvalrpeconomy:charcoal-retail-title": "Przydałoby mi się trochę węgla drzewnego! (96x)",
+  "edenvalrpeconomy:charcoal-retail-desc": "Węgiel drzewny to podstawa naszych zapasów, kupię 96 sztuki za 3 korony.",
+  "edenvalrpeconomy:charcoal-retail-obj": "{0}/96",
+
+  "edenvalrpeconomy:peatbrick-retail-title": "Kończy mi się torf! (192x)",
+  "edenvalrpeconomy:peatbrick-retail-desc": "Torf zawsze się przyda, kupię 192x sztuk za 3 korony.",
+  "edenvalrpeconomy:peatbrick-retail-obj": "{0}/192x",
 
 
 
@@ -323,9 +331,15 @@
 
   "edenvalrpeconomy:lantern-up-retail-title": "Przydałoby mi się trochę latarni! (16x)",
   "edenvalrpeconomy:lantern-up-retail-desc": "Latarnie zawsze się przydają, kupię 16 sztuk za 4 korony.",
-  "edenvalrpeconomy:lantern-up-retail-obj": "{0}/16"
+  "edenvalrpeconomy:lantern-up-retail-obj": "{0}/16",
 
+  "edenvalrpeconomy:heal-wax-inbulk-title": "Brak mi bandaży! (50x)",
+  "edenvalrpeconomy:heal-wax-inbulk-desc": "Brakuje bandaży woskowanych w naszych zapasach, kupię 50 sztuk za 30 koron.",
+  "edenvalrpeconomy:heal-wax-inbulk-obj": "{0}/50",
 
+  "edenvalrpeconomy:heal-wax-retail-title": "Przydałoby mi się trochę latarni! (15x)",
+  "edenvalrpeconomy:heal-wax-retail-desc": "Bandaże woskowane zawsze się przydają, kupię 15 sztuk za 9 korony.",
+  "edenvalrpeconomy:heal-wax-retail-obj": "{0}/15"
 
   
 }

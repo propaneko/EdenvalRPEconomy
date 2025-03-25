@@ -166,7 +166,7 @@
         "itemRewards": [
             {
                 "itemCode": "edenvalrpeconomy:coin",
-                "amount": 4
+                "amount": 14
             }
         ]
     },
@@ -180,6 +180,44 @@
                     "backpack-normal"
                 ],
                 "demand": 4
+            }
+        ],
+        "itemRewards": [
+            {
+                "itemCode": "edenvalrpeconomy:coin",
+                "amount": 4
+            }
+        ]
+    },
+    {
+        "id": "edenvalrpeconomy:paper-parchment-inbulk",
+        "cooldown": 1,
+        "perPlayer": true,
+        "gatherObjectives": [
+            {
+                "validCodes": [
+                    "paper-parchment"
+                ],
+                "demand": 96
+            }
+        ],
+        "itemRewards": [
+            {
+                "itemCode": "edenvalrpeconomy:coin",
+                "amount": 12
+            }
+        ]
+    },
+    {
+        "id": "edenvalrpeconomy:paper-parchment-retail",
+        "cooldown": 1,
+        "perPlayer": true,
+        "gatherObjectives": [
+            {
+                "validCodes": [
+                    "paper-parchment"
+                ],
+                "demand": 32
             }
         ],
         "itemRewards": [

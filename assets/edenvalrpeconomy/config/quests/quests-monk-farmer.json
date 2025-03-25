@@ -6,7 +6,7 @@
     "gatherObjectives": [
       {
         "validCodes": ["flour-*"],
-        "demand": 1536
+        "demand": 768
       }
     ],
     "itemRewards": [
@@ -23,7 +23,7 @@
     "gatherObjectives": [
       {
         "validCodes": ["flour-*"],
-        "demand": 512
+        "demand": 256
       }
     ],
     "itemRewards": [
@@ -114,7 +114,7 @@
     "itemRewards": [
       {
         "itemCode": "edenvalrpeconomy:coin",
-        "amount": 1
+        "amount": 2
       }
     ]
   },

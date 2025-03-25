@@ -603,7 +603,9 @@
           "edenvalrpeconomy:metal-parts-inbulk",
           "edenvalrpeconomy:metal-parts-retail",
           "edenvalrpeconomy:lantern-up-inbulk",
-          "edenvalrpeconomy:lantern-up-retail"
+          "edenvalrpeconomy:lantern-up-retail",
+          "edenvalrpeconomy:paper-parchment-inbulk",
+          "edenvalrpeconomy:paper-parchment-retail"
       ],
         "selectrandom": false
       },
