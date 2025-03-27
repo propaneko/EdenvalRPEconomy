@@ -6,8 +6,9 @@
     "authors": [
         "propaneko"
     ],
+    "contributors": ["JayVi"],
     "description": "Edenval RP Economy and Quests",
-    "version": "0.0.7",
+    "version": "0.0.9",
     "dependencies": {
         "game": "*",
         "vsquest": "*",

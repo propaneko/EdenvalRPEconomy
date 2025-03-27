@@ -1,0 +1,52 @@
+[
+  {
+    "enabled": true,
+    "op": "replace",
+    "file": "betterruins:itemtypes/betterruins/cartschematics.json",
+    "path": "/attributes/noConsumeOnCrafting",
+    "value": false,
+    "dependsOn": [{ "modid": "betterruins" }]
+  },
+  {
+    "enabled": true,
+    "op": "replace",
+    "file": "betterruins:itemtypes/betterruins/cartschematics.json",
+    "path": "/maxstacksize",
+    "value": 64,
+    "dependsOn": [{ "modid": "betterruins" }]
+  },
+  {
+    "enabled": true,
+    "op": "replace",
+    "file": "betterruins:itemtypes/betterruins/cartschematics.json",
+    "path": "/variantgroups",
+    "value": [
+      {
+        "code": "type",
+        "states": [
+          "door",
+          "bed",
+          "chest",
+          "crate",
+          "gaslamp",
+          "jonaslamp",
+          "banner",
+          "table",
+          "stone",
+          "wood",
+          "ancient",
+          "candle",
+          "road",
+          "jonaspart",
+          "jonasassembly",
+          "mechanical",
+          "roofing",
+          "palisade",
+          "farmer",
+          "shipwright"
+        ]
+      }
+    ],
+    "dependsOn": [{ "modid": "betterruins" }]
+  }
+]

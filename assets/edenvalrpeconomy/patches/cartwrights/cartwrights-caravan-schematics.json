@@ -10,7 +10,7 @@
     "op": "replace",
     "file": "cartwrightscaravan:itemtypes/cartschematics.json",
     "path": "/maxstacksize",
-    "value": 16,
+    "value": 64,
     "dependsOn": [{ "modid": "cartwrightscaravan" }]
   },
   {

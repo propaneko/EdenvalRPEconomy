@@ -1,0 +1,32 @@
+[
+  {
+    "op": "add",
+    "path": "/attributes/noConsumeOnCrafting",
+    "value": false,
+    "file": "apotheosisthings:itemtypes/schematic",
+    "dependsOn": [{ "modid": "apotheosisthings" }]
+  },
+  {
+    "op": "add",
+    "path": "/maxstacksize",
+    "value": 64,
+    "file": "apotheosisthings:itemtypes/schematic",
+    "dependsOn": [{ "modid": "apotheosisthings" }]
+  },
+  {
+    "op": "add",
+    "path": "/variantgroups",
+    "value": [
+      {
+        "code": "type",
+        "states": [
+          "book",
+          "bone",
+          "tinkerer"
+        ]
+      }
+    ],
+    "file": "apotheosisthings:itemtypes/schematic",
+    "dependsOn": [{ "modid": "apotheosisthings" }]
+  }
+]
